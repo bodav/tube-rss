@@ -4,6 +4,7 @@
 	import relativeTime from 'dayjs/plugin/relativeTime';
 	import { resolve } from '$app/paths';
 	import Rail from '$lib/components/Rail.svelte';
+	import { SvelteSet } from 'svelte/reactivity';
 
 	dayjs.extend(relativeTime);
 
@@ -19,6 +20,15 @@
 			? data.feedBundle.categories.filter((category) => category.id === selectedCategoryId)
 			: data.feedBundle.categories
 	);
+
+	function uniqueChannels<T extends { id: string }>(channels: T[]): T[] {
+		const seen = new SvelteSet<string>();
+		return channels.filter((channel) => {
+			if (seen.has(channel.id)) return false;
+			seen.add(channel.id);
+			return true;
+		});
+	}
 
 	function handleCategoryChange(value: string) {
 		selectedCategoryId = value;
@@ -119,7 +129,7 @@
 							<p>Enable feeds in <code>config.json</code> and re-run ingestion.</p>
 						</section>
 					{:else}
-						{#each category.channels as channel (channel.id)}
+						{#each uniqueChannels(category.channels) as channel (channel.id)}
 							<div class="cc-feed-rail-block">
 								<Rail
 									title={channel.title}
