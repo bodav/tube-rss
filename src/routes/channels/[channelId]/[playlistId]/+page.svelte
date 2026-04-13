@@ -2,24 +2,22 @@
 	import type { PageData } from './$types';
 	import dayjs from 'dayjs';
 	import relativeTime from 'dayjs/plugin/relativeTime';
-	import { base } from '$app/paths';
+	import { resolve } from '$app/paths';
 
 	dayjs.extend(relativeTime);
 
 	let { data }: { data: PageData } = $props();
-	const basePath = $derived(base.endsWith('/') ? base.slice(0, -1) : base);
-	const withBase = (path: string) => `${basePath}${path.startsWith('/') ? path : `/${path}`}`;
 </script>
 
 <main class="cc-page">
 	<div class="cc-bg-glow" aria-hidden="true"></div>
 	<header class="cc-header">
 		<div class="cc-breadcrumbs">
-			<a href={withBase('/')} class="cc-breadcrumb">Frontpage</a>
+			<a href={resolve('/')} class="cc-breadcrumb">Frontpage</a>
 			<span class="cc-breadcrumb-sep">/</span>
-			<a href={withBase('/channels')} class="cc-breadcrumb">Channels</a>
+			<a href={resolve('/channels')} class="cc-breadcrumb">Channels</a>
 			<span class="cc-breadcrumb-sep">/</span>
-			<a href={withBase(`/channels/${data.channel.id}`)} class="cc-breadcrumb">{data.channel.title}</a>
+			<a href={resolve(`/channels/${data.channel.id}`)} class="cc-breadcrumb">{data.channel.title}</a>
 			<span class="cc-breadcrumb-sep">/</span>
 			<span class="cc-breadcrumb-current">{data.playlist.title}</span>
 		</div>
