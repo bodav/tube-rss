@@ -1,0 +1,314 @@
+{
+	"metadata": {
+		"generatedAt": "2026-04-13T11:37:43.442Z",
+		"sourceCount": 3,
+		"failedSources": [],
+		"staleAfterHours": 72,
+		"staleAgeHours": 0,
+		"stale": false
+	},
+	"channels": [
+		{
+			"id": "timeteam",
+			"title": "Time Team",
+			"thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_mSYXNojBkwskrze2Cj1L7HZZFcdA7r9GlSiP3dLs08mw=s160-c-k-c0x00ffffff-no-rj",
+			"order": 1,
+			"playlists": [
+				{
+					"id": "PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c",
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c",
+					"title": "Series 1",
+					"thumbnail": "https://i4.ytimg.com/vi/g6mnleThc_M/hqdefault.jpg",
+					"items": [
+						{
+							"videoId": "g6mnleThc_M",
+							"title": "A View to a Kiln (Full Episode) | S10 EP12 | Full Episode | Time Team (Sedgefield, County Durham)",
+							"publishedAt": "2026-01-20T19:00:45+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/g6mnleThc_M/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 98750,
+							"link": "https://www.youtube.com/watch?v=g6mnleThc_M",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c"
+						},
+						{
+							"videoId": "ayykqgn0nMU",
+							"title": "Looking for the White House (Full Episode) | S10 EP9 | Time Team (Kew Gardens)",
+							"publishedAt": "2026-01-06T19:00:04+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/ayykqgn0nMU/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 79681,
+							"link": "https://www.youtube.com/watch?v=ayykqgn0nMU",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c"
+						},
+						{
+							"videoId": "ewy921VSzD8",
+							"title": "Joust Dig It (Full Episode) | S10 EP5 | Time Team (Greenwich, London)",
+							"publishedAt": "2025-12-09T19:00:48+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/ewy921VSzD8/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 55835,
+							"link": "https://www.youtube.com/watch?v=ewy921VSzD8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c"
+						},
+						{
+							"videoId": "cKFCuWfL8Yo",
+							"title": "The Royal Crescent in Bath | FULL EPISODE | Time Team",
+							"publishedAt": "2020-10-07T10:30:06+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/cKFCuWfL8Yo/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 608028,
+							"link": "https://www.youtube.com/watch?v=cKFCuWfL8Yo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c"
+						},
+						{
+							"videoId": "l1XEfpuI1pM",
+							"title": "A Lost Royal Palace | FULL EPISODE | Time Team",
+							"publishedAt": "2020-07-08T10:30:07+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/l1XEfpuI1pM/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 525785,
+							"link": "https://www.youtube.com/watch?v=l1XEfpuI1pM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c"
+						},
+						{
+							"videoId": "0Hk_erAZBSk",
+							"title": "A Bronze Age Mystery | FULL EPISODE | Time Team",
+							"publishedAt": "2020-07-01T09:30:01+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/0Hk_erAZBSk/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 908909,
+							"link": "https://www.youtube.com/watch?v=0Hk_erAZBSk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c"
+						},
+						{
+							"videoId": "Ipco5PuvvgA",
+							"title": "Henry VIII's Lost Armoury and Jousting Yard | Time Team| Time Team",
+							"publishedAt": "2020-06-24T10:30:04+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/Ipco5PuvvgA/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 432224,
+							"link": "https://www.youtube.com/watch?v=Ipco5PuvvgA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c"
+						}
+					]
+				},
+				{
+					"id": "PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC",
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC",
+					"title": "Series 2",
+					"thumbnail": "https://i1.ytimg.com/vi/dH9dHw_xsvM/hqdefault.jpg",
+					"items": [
+						{
+							"videoId": "dH9dHw_xsvM",
+							"title": "The Saxon Graves | FULL EPISODE | Time Team",
+							"publishedAt": "2019-11-02T10:00:04+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/dH9dHw_xsvM/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 196242,
+							"link": "https://www.youtube.com/watch?v=dH9dHw_xsvM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC"
+						},
+						{
+							"videoId": "48iYCIYgMCA",
+							"title": "The Archbishop's Back Garden | FULL EPISODE | Time Team",
+							"publishedAt": "2019-10-26T09:00:00+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/48iYCIYgMCA/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 292420,
+							"link": "https://www.youtube.com/watch?v=48iYCIYgMCA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC"
+						},
+						{
+							"videoId": "a5BOojQOJz4",
+							"title": "The Lost Villa | FULL EPISODE | Time Team",
+							"publishedAt": "2019-10-19T09:00:01+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/a5BOojQOJz4/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 309841,
+							"link": "https://www.youtube.com/watch?v=a5BOojQOJz4",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC"
+						},
+						{
+							"videoId": "34qeBgEfNDY",
+							"title": "Medieval Dining Hall | FULL EPISODE | Time Team",
+							"publishedAt": "2019-10-12T09:00:01+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/34qeBgEfNDY/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 497761,
+							"link": "https://www.youtube.com/watch?v=34qeBgEfNDY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC"
+						},
+						{
+							"videoId": "X5_Bs7Mfj7Y",
+							"title": "Lord Of The Isles | FULL EPISODE | Time Team",
+							"publishedAt": "2019-10-05T09:00:07+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/X5_Bs7Mfj7Y/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 552799,
+							"link": "https://www.youtube.com/watch?v=X5_Bs7Mfj7Y",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC"
+						},
+						{
+							"videoId": "KFBNoXQXr4M",
+							"title": "Is This An Arrowhead From The First Hunters? | Time Team",
+							"publishedAt": "2019-09-20T13:53:19+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/KFBNoXQXr4M/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 15536,
+							"link": "https://www.youtube.com/watch?v=KFBNoXQXr4M",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC"
+						},
+						{
+							"videoId": "R0eexuJ9mBg",
+							"title": "Time Team Try Underwater Archaeology | Time Team",
+							"publishedAt": "2019-09-20T13:53:13+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/R0eexuJ9mBg/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 25087,
+							"link": "https://www.youtube.com/watch?v=R0eexuJ9mBg",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC"
+						}
+					]
+				},
+				{
+					"id": "PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y",
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y",
+					"title": "Series 3",
+					"thumbnail": "https://i3.ytimg.com/vi/B5_BPGGiBbY/hqdefault.jpg",
+					"items": [
+						{
+							"videoId": "B5_BPGGiBbY",
+							"title": "In The Shadow Of The Tor (Full Episode) | S14 EP13 | Time Team (Bodmin Moor, Cornwall)",
+							"publishedAt": "2025-10-23T18:00:15+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/B5_BPGGiBbY/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 131139,
+							"link": "https://www.youtube.com/watch?v=B5_BPGGiBbY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "yVSjxxTZl0M",
+							"title": "The Abbey Habit (Full Episode) | S14 EP12 | Time Team (Poulton, Cheshire)",
+							"publishedAt": "2025-10-16T18:01:04+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/yVSjxxTZl0M/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 134771,
+							"link": "https://www.youtube.com/watch?v=yVSjxxTZl0M",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "v7szfz-4I3E",
+							"title": "The Cheyne Gang (Full Episode) | S14 EP10 | Time Team (Chesham Bois, Buckinghamshire)",
+							"publishedAt": "2025-10-09T18:00:54+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/v7szfz-4I3E/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 174229,
+							"link": "https://www.youtube.com/watch?v=v7szfz-4I3E",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "VZuncwwRL6c",
+							"title": "The Domesday Mill (Full Episode) | S14 EP9 | Time Team (Dotton, Devon)",
+							"publishedAt": "2025-09-25T18:30:41+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/VZuncwwRL6c/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 46782,
+							"link": "https://www.youtube.com/watch?v=VZuncwwRL6c",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "A_owrnq7tZ0",
+							"title": "No Stone Unturned (Full Episode) | S14 EP8 | Time Team (Warburton, Greater Manchester)",
+							"publishedAt": "2025-09-18T18:30:11+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/A_owrnq7tZ0/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 182567,
+							"link": "https://www.youtube.com/watch?v=A_owrnq7tZ0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "V4SZfqbznps",
+							"title": "A Tale Of Two Villages (Full Episode) | S14 EP7 | Time Team (Wicken, Northamptonshire)",
+							"publishedAt": "2025-09-11T18:30:48+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/V4SZfqbznps/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 50521,
+							"link": "https://www.youtube.com/watch?v=V4SZfqbznps",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "p8TyT1erodE",
+							"title": "A Port And Stilton (Full Episode) | S14 EP6 | Time Team (Stilton, Cambridgeshire)",
+							"publishedAt": "2025-09-04T18:31:14+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/p8TyT1erodE/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 62380,
+							"link": "https://www.youtube.com/watch?v=p8TyT1erodE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "ZJ7MzmZ3MGA",
+							"title": "The Druids' Last Stand (Full Episode) | S14 EP4 | Time Team",
+							"publishedAt": "2025-08-28T18:30:48+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/ZJ7MzmZ3MGA/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 239741,
+							"link": "https://www.youtube.com/watch?v=ZJ7MzmZ3MGA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "fUEy0ibHMc0",
+							"title": "School Diggers (Full Episode) | S14 EP3 | Time Team (Hooke Court, Dorset)",
+							"publishedAt": "2025-08-21T18:00:43+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/fUEy0ibHMc0/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 82756,
+							"link": "https://www.youtube.com/watch?v=fUEy0ibHMc0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "i_aavjEEynw",
+							"title": "There’s No Place Like Rome (Full Episode) | S14 EP2 | Time Team (Blacklands, Somerset)",
+							"publishedAt": "2025-08-14T18:00:44+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/i_aavjEEynw/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 130260,
+							"link": "https://www.youtube.com/watch?v=i_aavjEEynw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "jP6eMJgaaec",
+							"title": "Finds In The Fairway (Full Episode) | S14 EP1 | Time Team (Isle Of Man)",
+							"publishedAt": "2025-08-07T18:00:52+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/jP6eMJgaaec/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 144897,
+							"link": "https://www.youtube.com/watch?v=jP6eMJgaaec",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "jzawKzd5fLY",
+							"title": "Road To The Relics (Full Episode) | S14 EP11 | Time Team (Godstone, Surrey)",
+							"publishedAt": "2025-07-31T18:00:46+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/jzawKzd5fLY/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 213802,
+							"link": "https://www.youtube.com/watch?v=jzawKzd5fLY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						},
+						{
+							"videoId": "4zM7kZiz6HY",
+							"title": "Sharpe’s Redoubt (Full Episode) | S14 EP5 | Time Team (Sandgate, Kent)",
+							"publishedAt": "2025-04-27T18:00:03+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/4zM7kZiz6HY/hqdefault.jpg",
+							"channelTitle": "Time Team Classics",
+							"viewCount": 274846,
+							"link": "https://www.youtube.com/watch?v=4zM7kZiz6HY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y"
+						}
+					]
+				}
+			]
+		}
+	]
+}

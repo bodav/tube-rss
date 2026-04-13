@@ -1,0 +1,65 @@
+name: Fetch Feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '5 20 * * *'
+
+concurrency:
+  group: feed-ingestion
+  cancel-in-progress: true
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate feed data
+        run: npm run ingest:feeds
+
+      - name: Commit updated feed data
+        run: |
+          if [[ -n "$(git status --porcelain static/data/feeds.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add static/data/feeds.json
+            git commit -m "chore: refresh feed data"
+            git push
+          else
+            echo "No feed data changes"
+          fi
+
+      - name: Ingestion summary
+        run: |
+          NODE_SCRIPT='
+          const fs = require("fs");
+          const data = JSON.parse(fs.readFileSync("static/data/feeds.json", "utf8"));
+          const m = data.metadata;
+          const ageH = ((Date.now() - new Date(m.generatedAt).getTime()) / 3600000).toFixed(1);
+          const lines = [
+            "## Feed Ingestion Summary",
+            `| Field | Value |`,
+            `|---|---|`,
+            `| Generated at | ${m.generatedAt} |`,
+            `| Age | ${ageH}h |`,
+            `| Sources fetched | ${m.sourceCount} |`,
+            `| Failed sources | ${m.failedSources.length === 0 ? "none" : m.failedSources.join(", ")} |`,
+            `| Categories | ${data.categories.length} |`,
+            `| Total videos | ${data.categories.reduce((n,c) => n + c.items.length, 0)} |`,
+          ];
+          fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, lines.join("\n") + "\n");
+          '
+          node -e "$NODE_SCRIPT"

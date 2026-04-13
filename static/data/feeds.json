@@ -1,0 +1,3392 @@
+{
+	"metadata": {
+		"generatedAt": "2026-04-13T11:37:42.213Z",
+		"sourceCount": 11,
+		"failedSources": [],
+		"staleAfterHours": 72,
+		"staleAgeHours": 0,
+		"stale": false
+	},
+	"categories": [
+		{
+			"id": "documentary",
+			"label": "Documentary",
+			"order": 1,
+			"channels": [
+				{
+					"id": "UULFVogAsASqbceBmQMi1WA39g",
+					"title": "ARTE.tv Documentary",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g",
+					"items": [
+						{
+							"videoId": "CUH7BCqAZAs",
+							"title": "Macron-Merz: Power Behind the Scenes (2/2) - ARTE",
+							"publishedAt": "2026-04-12T14:00:31+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/CUH7BCqAZAs/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 1142,
+							"link": "https://www.youtube.com/watch?v=CUH7BCqAZAs",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "pCF43MjF-6o",
+							"title": "Macron-Merz: Power Behind the Scenes (1/2) | ARTE.tv Documentary",
+							"publishedAt": "2026-04-12T12:01:26+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/pCF43MjF-6o/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 4060,
+							"link": "https://www.youtube.com/watch?v=pCF43MjF-6o",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "PJ7LzlfvtMc",
+							"title": "Is Brain Washing Possible? | ARTE.tv Documentary",
+							"publishedAt": "2026-04-12T11:00:41+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/PJ7LzlfvtMc/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 321,
+							"link": "https://www.youtube.com/watch?v=PJ7LzlfvtMc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "wCmqblifiRw",
+							"title": "Why Do We Fall In Love? | ARTE.tv Documentary",
+							"publishedAt": "2026-04-11T17:01:09+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/wCmqblifiRw/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 923,
+							"link": "https://www.youtube.com/watch?v=wCmqblifiRw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "_7YpzTiQIqU",
+							"title": "The Queen and I | ARTE.tv Documentary",
+							"publishedAt": "2026-04-11T14:01:02+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/_7YpzTiQIqU/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 1029,
+							"link": "https://www.youtube.com/watch?v=_7YpzTiQIqU",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "iYTs-Ne1Gy8",
+							"title": "Hungary elections: Is this the end of Orbán? | ARTE Europe Weekly",
+							"publishedAt": "2026-04-10T12:01:24+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/iYTs-Ne1Gy8/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 1905,
+							"link": "https://www.youtube.com/watch?v=iYTs-Ne1Gy8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "FRRU5UAyMMw",
+							"title": "Transfariana: A Film by Joris Lachaise (Re-upload) | ARTE.tv Documentary",
+							"publishedAt": "2026-04-09T16:00:24+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/FRRU5UAyMMw/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 911,
+							"link": "https://www.youtube.com/watch?v=FRRU5UAyMMw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "HAx-xsLnXYE",
+							"title": "Inside Hungary: A Change of Power? | ARTE.tv Documentary",
+							"publishedAt": "2026-04-09T11:00:24+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/HAx-xsLnXYE/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 11013,
+							"link": "https://www.youtube.com/watch?v=HAx-xsLnXYE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "9cZMAhEuyCM",
+							"title": "Animal Overcrowding in Zoos | ARTE.tv Documentary",
+							"publishedAt": "2026-04-08T16:00:17+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/9cZMAhEuyCM/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 2926,
+							"link": "https://www.youtube.com/watch?v=9cZMAhEuyCM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "9LfUPIBFmaY",
+							"title": "Italian Police on Skis | ARTE.tv Documentary",
+							"publishedAt": "2026-04-07T16:00:15+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/9LfUPIBFmaY/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 11308,
+							"link": "https://www.youtube.com/watch?v=9LfUPIBFmaY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "45xVYb2pZJk",
+							"title": "The Oil Price: An Iraqi Activist Fights for His Country | ARTE.tv Documentary",
+							"publishedAt": "2026-04-06T16:00:13+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/45xVYb2pZJk/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 601,
+							"link": "https://www.youtube.com/watch?v=45xVYb2pZJk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "f9avbBQD7ik",
+							"title": "Occupation: Policewoman | ARTE.tv Documentary",
+							"publishedAt": "2026-04-05T16:00:58+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/f9avbBQD7ik/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 757,
+							"link": "https://www.youtube.com/watch?v=f9avbBQD7ik",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "J2sqHKpm7Wg",
+							"title": "Why Are We So Competitive? | ARTE.tv Documentary",
+							"publishedAt": "2026-04-05T11:00:33+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/J2sqHKpm7Wg/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 751,
+							"link": "https://www.youtube.com/watch?v=J2sqHKpm7Wg",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "oganLdyx9sA",
+							"title": "Agree to Disagree: Should We Bring Back Military Service? | ARTE.tv Documentary",
+							"publishedAt": "2026-04-04T15:01:16+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/oganLdyx9sA/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 2433,
+							"link": "https://www.youtube.com/watch?v=oganLdyx9sA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						},
+						{
+							"videoId": "_6kkCS3b6eo",
+							"title": "Public Health Funerals | ARTE.tv Documentary",
+							"publishedAt": "2026-04-04T11:00:51+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/_6kkCS3b6eo/hqdefault.jpg",
+							"channelTitle": "ARTE.tv Documentary",
+							"viewCount": 539,
+							"link": "https://www.youtube.com/watch?v=_6kkCS3b6eo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+						}
+					]
+				}
+			],
+			"items": [
+				{
+					"videoId": "CUH7BCqAZAs",
+					"title": "Macron-Merz: Power Behind the Scenes (2/2) - ARTE",
+					"publishedAt": "2026-04-12T14:00:31+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/CUH7BCqAZAs/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 1142,
+					"link": "https://www.youtube.com/watch?v=CUH7BCqAZAs",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "pCF43MjF-6o",
+					"title": "Macron-Merz: Power Behind the Scenes (1/2) | ARTE.tv Documentary",
+					"publishedAt": "2026-04-12T12:01:26+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/pCF43MjF-6o/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 4060,
+					"link": "https://www.youtube.com/watch?v=pCF43MjF-6o",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "PJ7LzlfvtMc",
+					"title": "Is Brain Washing Possible? | ARTE.tv Documentary",
+					"publishedAt": "2026-04-12T11:00:41+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/PJ7LzlfvtMc/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 321,
+					"link": "https://www.youtube.com/watch?v=PJ7LzlfvtMc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "wCmqblifiRw",
+					"title": "Why Do We Fall In Love? | ARTE.tv Documentary",
+					"publishedAt": "2026-04-11T17:01:09+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/wCmqblifiRw/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 923,
+					"link": "https://www.youtube.com/watch?v=wCmqblifiRw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "_7YpzTiQIqU",
+					"title": "The Queen and I | ARTE.tv Documentary",
+					"publishedAt": "2026-04-11T14:01:02+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/_7YpzTiQIqU/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 1029,
+					"link": "https://www.youtube.com/watch?v=_7YpzTiQIqU",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "iYTs-Ne1Gy8",
+					"title": "Hungary elections: Is this the end of Orbán? | ARTE Europe Weekly",
+					"publishedAt": "2026-04-10T12:01:24+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/iYTs-Ne1Gy8/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 1905,
+					"link": "https://www.youtube.com/watch?v=iYTs-Ne1Gy8",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "FRRU5UAyMMw",
+					"title": "Transfariana: A Film by Joris Lachaise (Re-upload) | ARTE.tv Documentary",
+					"publishedAt": "2026-04-09T16:00:24+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/FRRU5UAyMMw/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 911,
+					"link": "https://www.youtube.com/watch?v=FRRU5UAyMMw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "HAx-xsLnXYE",
+					"title": "Inside Hungary: A Change of Power? | ARTE.tv Documentary",
+					"publishedAt": "2026-04-09T11:00:24+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/HAx-xsLnXYE/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 11013,
+					"link": "https://www.youtube.com/watch?v=HAx-xsLnXYE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "9cZMAhEuyCM",
+					"title": "Animal Overcrowding in Zoos | ARTE.tv Documentary",
+					"publishedAt": "2026-04-08T16:00:17+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/9cZMAhEuyCM/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 2926,
+					"link": "https://www.youtube.com/watch?v=9cZMAhEuyCM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "9LfUPIBFmaY",
+					"title": "Italian Police on Skis | ARTE.tv Documentary",
+					"publishedAt": "2026-04-07T16:00:15+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/9LfUPIBFmaY/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 11308,
+					"link": "https://www.youtube.com/watch?v=9LfUPIBFmaY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "45xVYb2pZJk",
+					"title": "The Oil Price: An Iraqi Activist Fights for His Country | ARTE.tv Documentary",
+					"publishedAt": "2026-04-06T16:00:13+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/45xVYb2pZJk/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 601,
+					"link": "https://www.youtube.com/watch?v=45xVYb2pZJk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "f9avbBQD7ik",
+					"title": "Occupation: Policewoman | ARTE.tv Documentary",
+					"publishedAt": "2026-04-05T16:00:58+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/f9avbBQD7ik/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 757,
+					"link": "https://www.youtube.com/watch?v=f9avbBQD7ik",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "J2sqHKpm7Wg",
+					"title": "Why Are We So Competitive? | ARTE.tv Documentary",
+					"publishedAt": "2026-04-05T11:00:33+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/J2sqHKpm7Wg/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 751,
+					"link": "https://www.youtube.com/watch?v=J2sqHKpm7Wg",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "oganLdyx9sA",
+					"title": "Agree to Disagree: Should We Bring Back Military Service? | ARTE.tv Documentary",
+					"publishedAt": "2026-04-04T15:01:16+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/oganLdyx9sA/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 2433,
+					"link": "https://www.youtube.com/watch?v=oganLdyx9sA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				},
+				{
+					"videoId": "_6kkCS3b6eo",
+					"title": "Public Health Funerals | ARTE.tv Documentary",
+					"publishedAt": "2026-04-04T11:00:51+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/_6kkCS3b6eo/hqdefault.jpg",
+					"channelTitle": "ARTE.tv Documentary",
+					"viewCount": 539,
+					"link": "https://www.youtube.com/watch?v=_6kkCS3b6eo",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g"
+				}
+			]
+		},
+		{
+			"id": "history",
+			"label": "History",
+			"order": 2,
+			"channels": [
+				{
+					"id": "UULFN9v4QG3AQEP3zuRvVs2dAg",
+					"title": "History Time",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg",
+					"items": [
+						{
+							"videoId": "9pHLN4tah5w",
+							"title": "The Forgotten Origins Of Medieval Britain - History Documentary",
+							"publishedAt": "2025-11-19T20:15:07+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/9pHLN4tah5w/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 365849,
+							"link": "https://www.youtube.com/watch?v=9pHLN4tah5w",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "BlXuSICaegk",
+							"title": "Who Made The Nazca Lines? And Why? - Archaeology Documentary",
+							"publishedAt": "2025-06-13T16:56:04+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/BlXuSICaegk/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 819404,
+							"link": "https://www.youtube.com/watch?v=BlXuSICaegk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "VS8ZWLAGDK8",
+							"title": "476 AD - A Tour Of Post-Roman Europe // European History Documentary",
+							"publishedAt": "2025-04-06T15:51:14+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/VS8ZWLAGDK8/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 683565,
+							"link": "https://www.youtube.com/watch?v=VS8ZWLAGDK8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "1YdvOTiMn00",
+							"title": "The Complete Bronze Age Greek World // Ancient History Prehistory Archaeology Mycenaeans Documentary",
+							"publishedAt": "2025-02-01T19:00:07+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/1YdvOTiMn00/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 745096,
+							"link": "https://www.youtube.com/watch?v=1YdvOTiMn00",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "4dXYBGm-_zE",
+							"title": "Who Were The First People In Ireland? - Ancient Irish Prehistory Documentary",
+							"publishedAt": "2024-11-30T23:00:05+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/4dXYBGm-_zE/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 894073,
+							"link": "https://www.youtube.com/watch?v=4dXYBGm-_zE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "OusqE7gTUOI",
+							"title": "The Entire History Of The Hittites / Ancient History Documentary",
+							"publishedAt": "2024-07-31T17:00:08+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/OusqE7gTUOI/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 1906355,
+							"link": "https://www.youtube.com/watch?v=OusqE7gTUOI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "BEn6ZHtMECM",
+							"title": "Did Civilisation Begin At Karahan Tepe? - Humanity before Göbekli Tepe // Prehistory Documentary",
+							"publishedAt": "2024-04-19T17:30:08+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/BEn6ZHtMECM/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 3105359,
+							"link": "https://www.youtube.com/watch?v=BEn6ZHtMECM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "FdOgoqapBnw",
+							"title": "What Happened To The Lost Mycenaean Palace Of Nichoria? - Bronze Age Greece History Documentary",
+							"publishedAt": "2024-01-31T18:00:09+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/FdOgoqapBnw/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 627279,
+							"link": "https://www.youtube.com/watch?v=FdOgoqapBnw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "j7VeW3pdozs",
+							"title": "Beyond The Fall Of Rome - The 1000 Year Death Of The Roman Empire",
+							"publishedAt": "2023-10-20T17:30:10+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/j7VeW3pdozs/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 1511459,
+							"link": "https://www.youtube.com/watch?v=j7VeW3pdozs",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "vXJc-Y3Mf5w",
+							"title": "Göbekli Tepe - The First Temple On Earth? 10,000 BC // Ancient History Documentary",
+							"publishedAt": "2023-08-05T18:30:11+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/vXJc-Y3Mf5w/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 7331130,
+							"link": "https://www.youtube.com/watch?v=vXJc-Y3Mf5w",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "KMKMivAQuw0",
+							"title": "The Entire History Of The Greco-Persian Wars - Sparta Ancient Greece Documentary",
+							"publishedAt": "2023-06-01T19:39:57+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/KMKMivAQuw0/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 1215641,
+							"link": "https://www.youtube.com/watch?v=KMKMivAQuw0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "hNbuF1NWXKo",
+							"title": "The Entire History of the Maya // Ancient America History Documentary",
+							"publishedAt": "2022-09-28T15:00:12+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/hNbuF1NWXKo/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 4921306,
+							"link": "https://www.youtube.com/watch?v=hNbuF1NWXKo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "J9DwXeAtWrs",
+							"title": "The Entire History of Viking Britain // Medieval England Documentary",
+							"publishedAt": "2022-04-06T18:00:11+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/J9DwXeAtWrs/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 4298639,
+							"link": "https://www.youtube.com/watch?v=J9DwXeAtWrs",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "IrqkwG7Nqj8",
+							"title": "The Entire History of Steppe Nomads & City Builders // Ancient Prehistory Documentary",
+							"publishedAt": "2021-11-01T17:00:12+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/IrqkwG7Nqj8/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 2851725,
+							"link": "https://www.youtube.com/watch?v=IrqkwG7Nqj8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						},
+						{
+							"videoId": "Q-mAWItV2q0",
+							"title": "The Entire History of the Akkadians // Ancient Mesopotamia Documentary",
+							"publishedAt": "2021-09-08T14:09:26+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/Q-mAWItV2q0/hqdefault.jpg",
+							"channelTitle": "History Time",
+							"viewCount": 9221758,
+							"link": "https://www.youtube.com/watch?v=Q-mAWItV2q0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+						}
+					]
+				},
+				{
+					"id": "UULFMmaBzfCCwZ2KqaBJjkj0fw",
+					"title": "Kings and Generals",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw",
+					"items": [
+						{
+							"videoId": "PglhIyMk5nw",
+							"title": "Las Navas de Tolosa 1212 - The Most Crucial Battle of the Reconquista",
+							"publishedAt": "2026-04-12T12:59:48+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/PglhIyMk5nw/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 51144,
+							"link": "https://www.youtube.com/watch?v=PglhIyMk5nw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "nEDARlGzi4o",
+							"title": "The Rise of the Janissaries: Ottoman Military Revolution",
+							"publishedAt": "2026-04-09T12:59:46+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/nEDARlGzi4o/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 88407,
+							"link": "https://www.youtube.com/watch?v=nEDARlGzi4o",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "jfj_3mwQN9c",
+							"title": "How Iran Changed the war in Ukraine - Russia’s Offensive Is Failing",
+							"publishedAt": "2026-04-07T12:59:47+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/jfj_3mwQN9c/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 194820,
+							"link": "https://www.youtube.com/watch?v=jfj_3mwQN9c",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "xEtPsD5FVJ4",
+							"title": "How Japan Destroyed the Dutch Empire - Pacific War DOCUMENTARY",
+							"publishedAt": "2026-04-05T13:59:54+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/xEtPsD5FVJ4/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 74920,
+							"link": "https://www.youtube.com/watch?v=xEtPsD5FVJ4",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "xhqS3tNIMRo",
+							"title": "First Sudanese Civil War 1955-1972 - Modern History DOCUMENTARY",
+							"publishedAt": "2026-04-02T12:59:49+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/xhqS3tNIMRo/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 69899,
+							"link": "https://www.youtube.com/watch?v=xhqS3tNIMRo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "pSICc_538vA",
+							"title": "Japan Shocked the World",
+							"publishedAt": "2026-03-31T12:59:49+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/pSICc_538vA/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 111052,
+							"link": "https://www.youtube.com/watch?v=pSICc_538vA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "ZMvM4g86Kp0",
+							"title": "Can the USA and Israel Win?",
+							"publishedAt": "2026-03-29T14:59:48+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/ZMvM4g86Kp0/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 588562,
+							"link": "https://www.youtube.com/watch?v=ZMvM4g86Kp0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "rT9f4cXarsU",
+							"title": "The British Special Forces that won the Napoleonic Wars",
+							"publishedAt": "2026-03-26T12:59:50+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/rT9f4cXarsU/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 206108,
+							"link": "https://www.youtube.com/watch?v=rT9f4cXarsU",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "6uzk91Vm6_4",
+							"title": "How Caligula Took Power - Roman Empire Animated DOCUMENTARY",
+							"publishedAt": "2026-03-24T12:59:49+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/6uzk91Vm6_4/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 77661,
+							"link": "https://www.youtube.com/watch?v=6uzk91Vm6_4",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "eIi5QznRpw8",
+							"title": "Gallipoli Disaster Begins With a Naval Gamble - Ottoman World War I",
+							"publishedAt": "2026-03-22T12:59:51+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/eIi5QznRpw8/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 275901,
+							"link": "https://www.youtube.com/watch?v=eIi5QznRpw8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "0ekcO_kRreM",
+							"title": "How the Fate of the Old Northwest was Decided",
+							"publishedAt": "2026-03-19T12:59:51+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/0ekcO_kRreM/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 106629,
+							"link": "https://www.youtube.com/watch?v=0ekcO_kRreM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "SSlh7zNO9H0",
+							"title": "Nader Shah vs. the Ottomans - Master of Iran ANIMATED DOCUMENTARY",
+							"publishedAt": "2026-03-17T12:59:51+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/SSlh7zNO9H0/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 168719,
+							"link": "https://www.youtube.com/watch?v=SSlh7zNO9H0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "uvjFtUzLtj0",
+							"title": "Ottoman Crisis After Mehmed II - Mamluk Wars Begin",
+							"publishedAt": "2026-03-15T12:59:54+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/uvjFtUzLtj0/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 152817,
+							"link": "https://www.youtube.com/watch?v=uvjFtUzLtj0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "sQ728X06zhs",
+							"title": "How Clovis Changed Europe",
+							"publishedAt": "2026-03-12T14:08:45+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/sQ728X06zhs/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 80424,
+							"link": "https://www.youtube.com/watch?v=sQ728X06zhs",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						},
+						{
+							"videoId": "i2MmuJI2QpU",
+							"title": "Ukraine Counterattacks! - Russian Invasion of Ukraine",
+							"publishedAt": "2026-03-10T12:58:50+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/i2MmuJI2QpU/hqdefault.jpg",
+							"channelTitle": "Kings and Generals",
+							"viewCount": 281713,
+							"link": "https://www.youtube.com/watch?v=i2MmuJI2QpU",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+						}
+					]
+				},
+				{
+					"id": "UULFCGvq-qmjFmmMD4e-PLQqGg",
+					"title": "The Cold War",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg",
+					"items": [
+						{
+							"videoId": "cphyHpX129I",
+							"title": "US-Cuban Relations During the Cold War",
+							"publishedAt": "2026-04-12T12:59:59+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/cphyHpX129I/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 5192,
+							"link": "https://www.youtube.com/watch?v=cphyHpX129I",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "jKwdZBzzCi0",
+							"title": "How the Soviet and American Cold War Was Fought Through Reproductive Policy",
+							"publishedAt": "2026-03-29T13:00:26+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/jKwdZBzzCi0/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 15781,
+							"link": "https://www.youtube.com/watch?v=jKwdZBzzCi0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "TMx3iBf73_0",
+							"title": "How Soviet Citizens Escaped Censorship: Samizdat",
+							"publishedAt": "2026-03-22T13:01:03+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/TMx3iBf73_0/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 17833,
+							"link": "https://www.youtube.com/watch?v=TMx3iBf73_0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "NUUZCD_XfjI",
+							"title": "The Soviet Economy: Brezhnev's Years of Stagnation",
+							"publishedAt": "2026-03-15T13:02:12+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/NUUZCD_XfjI/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 50496,
+							"link": "https://www.youtube.com/watch?v=NUUZCD_XfjI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "FDtBRr--B5I",
+							"title": "Nuking Moon   The Cold War",
+							"publishedAt": "2026-03-09T13:11:30+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/FDtBRr--B5I/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 18384,
+							"link": "https://www.youtube.com/watch?v=FDtBRr--B5I",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "dZpoeWH1I7s",
+							"title": "The Turkmen SSR - A History, Pt. 2",
+							"publishedAt": "2026-03-01T14:02:05+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/dZpoeWH1I7s/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 19137,
+							"link": "https://www.youtube.com/watch?v=dZpoeWH1I7s",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "ikUQ3WTaCX8",
+							"title": "Black January: Soviet Massacre in Azerbaijan",
+							"publishedAt": "2026-02-22T14:02:12+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/ikUQ3WTaCX8/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 39893,
+							"link": "https://www.youtube.com/watch?v=ikUQ3WTaCX8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "plrMl23VFMA",
+							"title": "The Turkmen SSR - A History, Pt. 1",
+							"publishedAt": "2026-02-15T14:00:02+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/plrMl23VFMA/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 42644,
+							"link": "https://www.youtube.com/watch?v=plrMl23VFMA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "2arxTSPhr6g",
+							"title": "The Soviet Economy from Revolution to Khrushchev",
+							"publishedAt": "2026-02-08T14:05:25+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/2arxTSPhr6g/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 56335,
+							"link": "https://www.youtube.com/watch?v=2arxTSPhr6g",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "8J1PqAkIfPI",
+							"title": "That Time Venezuelans Tried to Get Rid of Nixon: Operation Poor Richard",
+							"publishedAt": "2026-02-01T14:00:02+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/8J1PqAkIfPI/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 16525,
+							"link": "https://www.youtube.com/watch?v=8J1PqAkIfPI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "QvgEHc0iyoQ",
+							"title": "How the Girl Scouts of America were Accused of being Communists",
+							"publishedAt": "2026-01-18T14:00:50+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/QvgEHc0iyoQ/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 21222,
+							"link": "https://www.youtube.com/watch?v=QvgEHc0iyoQ",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "DFzIVfTNjH0",
+							"title": "The Armenian Secret Army for the Liberation of Armenia: Armenian Nationalism and the Cold War",
+							"publishedAt": "2026-01-04T14:22:51+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/DFzIVfTNjH0/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 30228,
+							"link": "https://www.youtube.com/watch?v=DFzIVfTNjH0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "Z89YnSS5RQA",
+							"title": "The Amchitka Nuclear Tests - How Modern Environmentalism Was Born",
+							"publishedAt": "2025-12-28T14:00:05+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/Z89YnSS5RQA/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 10149,
+							"link": "https://www.youtube.com/watch?v=Z89YnSS5RQA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "zEJrivfLKGc",
+							"title": "Thieves in Law: The World of Soviet Crime",
+							"publishedAt": "2025-12-21T14:00:07+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/zEJrivfLKGc/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 46438,
+							"link": "https://www.youtube.com/watch?v=zEJrivfLKGc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						},
+						{
+							"videoId": "zWfmF4llRBc",
+							"title": "The First Indochina War: Why the War went to Laos",
+							"publishedAt": "2025-12-14T14:00:14+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/zWfmF4llRBc/hqdefault.jpg",
+							"channelTitle": "The Cold War",
+							"viewCount": 13704,
+							"link": "https://www.youtube.com/watch?v=zWfmF4llRBc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+						}
+					]
+				}
+			],
+			"items": [
+				{
+					"videoId": "cphyHpX129I",
+					"title": "US-Cuban Relations During the Cold War",
+					"publishedAt": "2026-04-12T12:59:59+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/cphyHpX129I/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 5192,
+					"link": "https://www.youtube.com/watch?v=cphyHpX129I",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "PglhIyMk5nw",
+					"title": "Las Navas de Tolosa 1212 - The Most Crucial Battle of the Reconquista",
+					"publishedAt": "2026-04-12T12:59:48+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/PglhIyMk5nw/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 51144,
+					"link": "https://www.youtube.com/watch?v=PglhIyMk5nw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "nEDARlGzi4o",
+					"title": "The Rise of the Janissaries: Ottoman Military Revolution",
+					"publishedAt": "2026-04-09T12:59:46+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/nEDARlGzi4o/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 88407,
+					"link": "https://www.youtube.com/watch?v=nEDARlGzi4o",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "jfj_3mwQN9c",
+					"title": "How Iran Changed the war in Ukraine - Russia’s Offensive Is Failing",
+					"publishedAt": "2026-04-07T12:59:47+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/jfj_3mwQN9c/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 194820,
+					"link": "https://www.youtube.com/watch?v=jfj_3mwQN9c",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "xEtPsD5FVJ4",
+					"title": "How Japan Destroyed the Dutch Empire - Pacific War DOCUMENTARY",
+					"publishedAt": "2026-04-05T13:59:54+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/xEtPsD5FVJ4/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 74920,
+					"link": "https://www.youtube.com/watch?v=xEtPsD5FVJ4",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "xhqS3tNIMRo",
+					"title": "First Sudanese Civil War 1955-1972 - Modern History DOCUMENTARY",
+					"publishedAt": "2026-04-02T12:59:49+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/xhqS3tNIMRo/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 69899,
+					"link": "https://www.youtube.com/watch?v=xhqS3tNIMRo",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "pSICc_538vA",
+					"title": "Japan Shocked the World",
+					"publishedAt": "2026-03-31T12:59:49+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/pSICc_538vA/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 111052,
+					"link": "https://www.youtube.com/watch?v=pSICc_538vA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "ZMvM4g86Kp0",
+					"title": "Can the USA and Israel Win?",
+					"publishedAt": "2026-03-29T14:59:48+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/ZMvM4g86Kp0/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 588562,
+					"link": "https://www.youtube.com/watch?v=ZMvM4g86Kp0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "jKwdZBzzCi0",
+					"title": "How the Soviet and American Cold War Was Fought Through Reproductive Policy",
+					"publishedAt": "2026-03-29T13:00:26+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/jKwdZBzzCi0/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 15781,
+					"link": "https://www.youtube.com/watch?v=jKwdZBzzCi0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "rT9f4cXarsU",
+					"title": "The British Special Forces that won the Napoleonic Wars",
+					"publishedAt": "2026-03-26T12:59:50+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/rT9f4cXarsU/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 206108,
+					"link": "https://www.youtube.com/watch?v=rT9f4cXarsU",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "6uzk91Vm6_4",
+					"title": "How Caligula Took Power - Roman Empire Animated DOCUMENTARY",
+					"publishedAt": "2026-03-24T12:59:49+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/6uzk91Vm6_4/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 77661,
+					"link": "https://www.youtube.com/watch?v=6uzk91Vm6_4",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "TMx3iBf73_0",
+					"title": "How Soviet Citizens Escaped Censorship: Samizdat",
+					"publishedAt": "2026-03-22T13:01:03+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/TMx3iBf73_0/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 17833,
+					"link": "https://www.youtube.com/watch?v=TMx3iBf73_0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "eIi5QznRpw8",
+					"title": "Gallipoli Disaster Begins With a Naval Gamble - Ottoman World War I",
+					"publishedAt": "2026-03-22T12:59:51+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/eIi5QznRpw8/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 275901,
+					"link": "https://www.youtube.com/watch?v=eIi5QznRpw8",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "0ekcO_kRreM",
+					"title": "How the Fate of the Old Northwest was Decided",
+					"publishedAt": "2026-03-19T12:59:51+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/0ekcO_kRreM/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 106629,
+					"link": "https://www.youtube.com/watch?v=0ekcO_kRreM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "SSlh7zNO9H0",
+					"title": "Nader Shah vs. the Ottomans - Master of Iran ANIMATED DOCUMENTARY",
+					"publishedAt": "2026-03-17T12:59:51+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/SSlh7zNO9H0/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 168719,
+					"link": "https://www.youtube.com/watch?v=SSlh7zNO9H0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "NUUZCD_XfjI",
+					"title": "The Soviet Economy: Brezhnev's Years of Stagnation",
+					"publishedAt": "2026-03-15T13:02:12+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/NUUZCD_XfjI/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 50496,
+					"link": "https://www.youtube.com/watch?v=NUUZCD_XfjI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "uvjFtUzLtj0",
+					"title": "Ottoman Crisis After Mehmed II - Mamluk Wars Begin",
+					"publishedAt": "2026-03-15T12:59:54+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/uvjFtUzLtj0/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 152817,
+					"link": "https://www.youtube.com/watch?v=uvjFtUzLtj0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "sQ728X06zhs",
+					"title": "How Clovis Changed Europe",
+					"publishedAt": "2026-03-12T14:08:45+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/sQ728X06zhs/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 80424,
+					"link": "https://www.youtube.com/watch?v=sQ728X06zhs",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "i2MmuJI2QpU",
+					"title": "Ukraine Counterattacks! - Russian Invasion of Ukraine",
+					"publishedAt": "2026-03-10T12:58:50+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/i2MmuJI2QpU/hqdefault.jpg",
+					"channelTitle": "Kings and Generals",
+					"viewCount": 281713,
+					"link": "https://www.youtube.com/watch?v=i2MmuJI2QpU",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw"
+				},
+				{
+					"videoId": "FDtBRr--B5I",
+					"title": "Nuking Moon   The Cold War",
+					"publishedAt": "2026-03-09T13:11:30+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/FDtBRr--B5I/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 18384,
+					"link": "https://www.youtube.com/watch?v=FDtBRr--B5I",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "dZpoeWH1I7s",
+					"title": "The Turkmen SSR - A History, Pt. 2",
+					"publishedAt": "2026-03-01T14:02:05+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/dZpoeWH1I7s/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 19137,
+					"link": "https://www.youtube.com/watch?v=dZpoeWH1I7s",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "ikUQ3WTaCX8",
+					"title": "Black January: Soviet Massacre in Azerbaijan",
+					"publishedAt": "2026-02-22T14:02:12+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/ikUQ3WTaCX8/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 39893,
+					"link": "https://www.youtube.com/watch?v=ikUQ3WTaCX8",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "plrMl23VFMA",
+					"title": "The Turkmen SSR - A History, Pt. 1",
+					"publishedAt": "2026-02-15T14:00:02+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/plrMl23VFMA/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 42644,
+					"link": "https://www.youtube.com/watch?v=plrMl23VFMA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "2arxTSPhr6g",
+					"title": "The Soviet Economy from Revolution to Khrushchev",
+					"publishedAt": "2026-02-08T14:05:25+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/2arxTSPhr6g/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 56335,
+					"link": "https://www.youtube.com/watch?v=2arxTSPhr6g",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "8J1PqAkIfPI",
+					"title": "That Time Venezuelans Tried to Get Rid of Nixon: Operation Poor Richard",
+					"publishedAt": "2026-02-01T14:00:02+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/8J1PqAkIfPI/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 16525,
+					"link": "https://www.youtube.com/watch?v=8J1PqAkIfPI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "QvgEHc0iyoQ",
+					"title": "How the Girl Scouts of America were Accused of being Communists",
+					"publishedAt": "2026-01-18T14:00:50+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/QvgEHc0iyoQ/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 21222,
+					"link": "https://www.youtube.com/watch?v=QvgEHc0iyoQ",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "DFzIVfTNjH0",
+					"title": "The Armenian Secret Army for the Liberation of Armenia: Armenian Nationalism and the Cold War",
+					"publishedAt": "2026-01-04T14:22:51+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/DFzIVfTNjH0/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 30228,
+					"link": "https://www.youtube.com/watch?v=DFzIVfTNjH0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "Z89YnSS5RQA",
+					"title": "The Amchitka Nuclear Tests - How Modern Environmentalism Was Born",
+					"publishedAt": "2025-12-28T14:00:05+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/Z89YnSS5RQA/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 10149,
+					"link": "https://www.youtube.com/watch?v=Z89YnSS5RQA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "zEJrivfLKGc",
+					"title": "Thieves in Law: The World of Soviet Crime",
+					"publishedAt": "2025-12-21T14:00:07+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/zEJrivfLKGc/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 46438,
+					"link": "https://www.youtube.com/watch?v=zEJrivfLKGc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "zWfmF4llRBc",
+					"title": "The First Indochina War: Why the War went to Laos",
+					"publishedAt": "2025-12-14T14:00:14+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/zWfmF4llRBc/hqdefault.jpg",
+					"channelTitle": "The Cold War",
+					"viewCount": 13704,
+					"link": "https://www.youtube.com/watch?v=zWfmF4llRBc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg"
+				},
+				{
+					"videoId": "9pHLN4tah5w",
+					"title": "The Forgotten Origins Of Medieval Britain - History Documentary",
+					"publishedAt": "2025-11-19T20:15:07+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/9pHLN4tah5w/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 365849,
+					"link": "https://www.youtube.com/watch?v=9pHLN4tah5w",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "BlXuSICaegk",
+					"title": "Who Made The Nazca Lines? And Why? - Archaeology Documentary",
+					"publishedAt": "2025-06-13T16:56:04+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/BlXuSICaegk/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 819404,
+					"link": "https://www.youtube.com/watch?v=BlXuSICaegk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "VS8ZWLAGDK8",
+					"title": "476 AD - A Tour Of Post-Roman Europe // European History Documentary",
+					"publishedAt": "2025-04-06T15:51:14+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/VS8ZWLAGDK8/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 683565,
+					"link": "https://www.youtube.com/watch?v=VS8ZWLAGDK8",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "1YdvOTiMn00",
+					"title": "The Complete Bronze Age Greek World // Ancient History Prehistory Archaeology Mycenaeans Documentary",
+					"publishedAt": "2025-02-01T19:00:07+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/1YdvOTiMn00/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 745096,
+					"link": "https://www.youtube.com/watch?v=1YdvOTiMn00",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "4dXYBGm-_zE",
+					"title": "Who Were The First People In Ireland? - Ancient Irish Prehistory Documentary",
+					"publishedAt": "2024-11-30T23:00:05+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/4dXYBGm-_zE/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 894073,
+					"link": "https://www.youtube.com/watch?v=4dXYBGm-_zE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "OusqE7gTUOI",
+					"title": "The Entire History Of The Hittites / Ancient History Documentary",
+					"publishedAt": "2024-07-31T17:00:08+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/OusqE7gTUOI/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 1906355,
+					"link": "https://www.youtube.com/watch?v=OusqE7gTUOI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "BEn6ZHtMECM",
+					"title": "Did Civilisation Begin At Karahan Tepe? - Humanity before Göbekli Tepe // Prehistory Documentary",
+					"publishedAt": "2024-04-19T17:30:08+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/BEn6ZHtMECM/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 3105359,
+					"link": "https://www.youtube.com/watch?v=BEn6ZHtMECM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "FdOgoqapBnw",
+					"title": "What Happened To The Lost Mycenaean Palace Of Nichoria? - Bronze Age Greece History Documentary",
+					"publishedAt": "2024-01-31T18:00:09+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/FdOgoqapBnw/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 627279,
+					"link": "https://www.youtube.com/watch?v=FdOgoqapBnw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "j7VeW3pdozs",
+					"title": "Beyond The Fall Of Rome - The 1000 Year Death Of The Roman Empire",
+					"publishedAt": "2023-10-20T17:30:10+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/j7VeW3pdozs/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 1511459,
+					"link": "https://www.youtube.com/watch?v=j7VeW3pdozs",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "vXJc-Y3Mf5w",
+					"title": "Göbekli Tepe - The First Temple On Earth? 10,000 BC // Ancient History Documentary",
+					"publishedAt": "2023-08-05T18:30:11+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/vXJc-Y3Mf5w/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 7331130,
+					"link": "https://www.youtube.com/watch?v=vXJc-Y3Mf5w",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "KMKMivAQuw0",
+					"title": "The Entire History Of The Greco-Persian Wars - Sparta Ancient Greece Documentary",
+					"publishedAt": "2023-06-01T19:39:57+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/KMKMivAQuw0/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 1215641,
+					"link": "https://www.youtube.com/watch?v=KMKMivAQuw0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				},
+				{
+					"videoId": "hNbuF1NWXKo",
+					"title": "The Entire History of the Maya // Ancient America History Documentary",
+					"publishedAt": "2022-09-28T15:00:12+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/hNbuF1NWXKo/hqdefault.jpg",
+					"channelTitle": "History Time",
+					"viewCount": 4921306,
+					"link": "https://www.youtube.com/watch?v=hNbuF1NWXKo",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg"
+				}
+			]
+		},
+		{
+			"id": "sport",
+			"label": "Sport",
+			"order": 3,
+			"channels": [
+				{
+					"id": "UULFJVMrR290HU9pDxaP35u_cg",
+					"title": "Global Triathlon Network",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg",
+					"items": [
+						{
+							"videoId": "696gJaqh0hU",
+							"title": "How Much Do Different Wetsuits Affect Performance?",
+							"publishedAt": "2026-04-12T09:00:06+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/696gJaqh0hU/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 7632,
+							"link": "https://www.youtube.com/watch?v=696gJaqh0hU",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "whjQBhctuok",
+							"title": "How To Run a Sub 60 Minute 10k",
+							"publishedAt": "2026-04-09T16:04:30+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/whjQBhctuok/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 11087,
+							"link": "https://www.youtube.com/watch?v=whjQBhctuok",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "5Vb0P4qYUQc",
+							"title": "Are Amateurs Really Beating The Pros? + Is Triathlon Funding At Risk? | The GTN Show Ep.452",
+							"publishedAt": "2026-04-08T12:12:34+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/5Vb0P4qYUQc/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 22596,
+							"link": "https://www.youtube.com/watch?v=5Vb0P4qYUQc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "WmOFMlKCric",
+							"title": "Mic'd Up Marathon | My Thoughts Mile by Mile",
+							"publishedAt": "2026-04-05T09:00:48+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/WmOFMlKCric/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 19391,
+							"link": "https://www.youtube.com/watch?v=WmOFMlKCric",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "6dfYvTYxzRY",
+							"title": "4 Swim Drills That ANYONE Can Do",
+							"publishedAt": "2026-04-02T09:00:07+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/6dfYvTYxzRY/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 26124,
+							"link": "https://www.youtube.com/watch?v=6dfYvTYxzRY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "Oxc5fM6BKuw",
+							"title": "The Big Medications Debate in Sport | GTN Show Ep. 451",
+							"publishedAt": "2026-03-31T16:55:17+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/Oxc5fM6BKuw/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 13357,
+							"link": "https://www.youtube.com/watch?v=Oxc5fM6BKuw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "hXY7cJL5FdQ",
+							"title": "TT Bike vs Road Bike | Time Trial Challenge",
+							"publishedAt": "2026-03-29T09:05:42+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/hXY7cJL5FdQ/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 123043,
+							"link": "https://www.youtube.com/watch?v=hXY7cJL5FdQ",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "V0Y1EvWrQVo",
+							"title": "Marathon Training Made Simple",
+							"publishedAt": "2026-03-26T12:58:22+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/V0Y1EvWrQVo/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 16452,
+							"link": "https://www.youtube.com/watch?v=V0Y1EvWrQVo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "4yTuc0xIErY",
+							"title": "Which Discipline Matters The Most In Triathlon? | GTN Show Ep.450",
+							"publishedAt": "2026-03-25T10:39:11+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/4yTuc0xIErY/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 17505,
+							"link": "https://www.youtube.com/watch?v=4yTuc0xIErY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "QUjya4tnImc",
+							"title": "42km at 42 | Can I Run a Marathon PB After 12 Years?",
+							"publishedAt": "2026-03-22T10:00:37+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/QUjya4tnImc/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 36001,
+							"link": "https://www.youtube.com/watch?v=QUjya4tnImc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "5vqih_62ags",
+							"title": "We Answer ALL Your Beginner Triathlon Questions",
+							"publishedAt": "2026-03-19T17:42:50+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/5vqih_62ags/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 12744,
+							"link": "https://www.youtube.com/watch?v=5vqih_62ags",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "WcMEafOyt0I",
+							"title": "T100 vs Ironman Pro Series Showdown & ChatGPT Wins A Medal?! | GTN Show Ep. 449",
+							"publishedAt": "2026-03-17T17:32:12+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/WcMEafOyt0I/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 15591,
+							"link": "https://www.youtube.com/watch?v=WcMEafOyt0I",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "Nb5yuHv5mU0",
+							"title": "Can I Survive A Day Training With An Olympic Swimmer?",
+							"publishedAt": "2026-03-15T10:00:38+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/Nb5yuHv5mU0/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 43897,
+							"link": "https://www.youtube.com/watch?v=Nb5yuHv5mU0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "99s2_iIh5aE",
+							"title": "Stop Sinking Legs",
+							"publishedAt": "2026-03-12T17:13:58+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/99s2_iIh5aE/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 19048,
+							"link": "https://www.youtube.com/watch?v=99s2_iIh5aE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						},
+						{
+							"videoId": "L7bxGR1Dbdg",
+							"title": "Would You Pay $27,000 For a Pro Contract?! | GTN Show Ep.448",
+							"publishedAt": "2026-03-10T17:34:13+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/L7bxGR1Dbdg/hqdefault.jpg",
+							"channelTitle": "Global Triathlon Network",
+							"viewCount": 18014,
+							"link": "https://www.youtube.com/watch?v=L7bxGR1Dbdg",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+						}
+					]
+				}
+			],
+			"items": [
+				{
+					"videoId": "696gJaqh0hU",
+					"title": "How Much Do Different Wetsuits Affect Performance?",
+					"publishedAt": "2026-04-12T09:00:06+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/696gJaqh0hU/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 7632,
+					"link": "https://www.youtube.com/watch?v=696gJaqh0hU",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "whjQBhctuok",
+					"title": "How To Run a Sub 60 Minute 10k",
+					"publishedAt": "2026-04-09T16:04:30+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/whjQBhctuok/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 11087,
+					"link": "https://www.youtube.com/watch?v=whjQBhctuok",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "5Vb0P4qYUQc",
+					"title": "Are Amateurs Really Beating The Pros? + Is Triathlon Funding At Risk? | The GTN Show Ep.452",
+					"publishedAt": "2026-04-08T12:12:34+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/5Vb0P4qYUQc/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 22596,
+					"link": "https://www.youtube.com/watch?v=5Vb0P4qYUQc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "WmOFMlKCric",
+					"title": "Mic'd Up Marathon | My Thoughts Mile by Mile",
+					"publishedAt": "2026-04-05T09:00:48+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/WmOFMlKCric/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 19391,
+					"link": "https://www.youtube.com/watch?v=WmOFMlKCric",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "6dfYvTYxzRY",
+					"title": "4 Swim Drills That ANYONE Can Do",
+					"publishedAt": "2026-04-02T09:00:07+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/6dfYvTYxzRY/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 26124,
+					"link": "https://www.youtube.com/watch?v=6dfYvTYxzRY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "Oxc5fM6BKuw",
+					"title": "The Big Medications Debate in Sport | GTN Show Ep. 451",
+					"publishedAt": "2026-03-31T16:55:17+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/Oxc5fM6BKuw/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 13357,
+					"link": "https://www.youtube.com/watch?v=Oxc5fM6BKuw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "hXY7cJL5FdQ",
+					"title": "TT Bike vs Road Bike | Time Trial Challenge",
+					"publishedAt": "2026-03-29T09:05:42+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/hXY7cJL5FdQ/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 123043,
+					"link": "https://www.youtube.com/watch?v=hXY7cJL5FdQ",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "V0Y1EvWrQVo",
+					"title": "Marathon Training Made Simple",
+					"publishedAt": "2026-03-26T12:58:22+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/V0Y1EvWrQVo/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 16452,
+					"link": "https://www.youtube.com/watch?v=V0Y1EvWrQVo",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "4yTuc0xIErY",
+					"title": "Which Discipline Matters The Most In Triathlon? | GTN Show Ep.450",
+					"publishedAt": "2026-03-25T10:39:11+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/4yTuc0xIErY/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 17505,
+					"link": "https://www.youtube.com/watch?v=4yTuc0xIErY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "QUjya4tnImc",
+					"title": "42km at 42 | Can I Run a Marathon PB After 12 Years?",
+					"publishedAt": "2026-03-22T10:00:37+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/QUjya4tnImc/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 36001,
+					"link": "https://www.youtube.com/watch?v=QUjya4tnImc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "5vqih_62ags",
+					"title": "We Answer ALL Your Beginner Triathlon Questions",
+					"publishedAt": "2026-03-19T17:42:50+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/5vqih_62ags/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 12744,
+					"link": "https://www.youtube.com/watch?v=5vqih_62ags",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "WcMEafOyt0I",
+					"title": "T100 vs Ironman Pro Series Showdown & ChatGPT Wins A Medal?! | GTN Show Ep. 449",
+					"publishedAt": "2026-03-17T17:32:12+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/WcMEafOyt0I/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 15591,
+					"link": "https://www.youtube.com/watch?v=WcMEafOyt0I",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "Nb5yuHv5mU0",
+					"title": "Can I Survive A Day Training With An Olympic Swimmer?",
+					"publishedAt": "2026-03-15T10:00:38+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/Nb5yuHv5mU0/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 43897,
+					"link": "https://www.youtube.com/watch?v=Nb5yuHv5mU0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "99s2_iIh5aE",
+					"title": "Stop Sinking Legs",
+					"publishedAt": "2026-03-12T17:13:58+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/99s2_iIh5aE/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 19048,
+					"link": "https://www.youtube.com/watch?v=99s2_iIh5aE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				},
+				{
+					"videoId": "L7bxGR1Dbdg",
+					"title": "Would You Pay $27,000 For a Pro Contract?! | GTN Show Ep.448",
+					"publishedAt": "2026-03-10T17:34:13+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/L7bxGR1Dbdg/hqdefault.jpg",
+					"channelTitle": "Global Triathlon Network",
+					"viewCount": 18014,
+					"link": "https://www.youtube.com/watch?v=L7bxGR1Dbdg",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg"
+				}
+			]
+		},
+		{
+			"id": "tech",
+			"label": "Tech",
+			"order": 4,
+			"channels": [
+				{
+					"id": "UULFBJycsmduvYEL83R_U4JriQ",
+					"title": "Marques Brownlee",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ",
+					"items": [
+						{
+							"videoId": "Hc0aqOEU2w8",
+							"title": "Bluey Phone Review",
+							"publishedAt": "2026-04-01T14:10:50+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/Hc0aqOEU2w8/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 3486442,
+							"link": "https://www.youtube.com/watch?v=Hc0aqOEU2w8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "eFUB_jL_XcM",
+							"title": "So This is Peak Foldable",
+							"publishedAt": "2026-03-30T20:56:18+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/eFUB_jL_XcM/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 5485993,
+							"link": "https://www.youtube.com/watch?v=eFUB_jL_XcM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "eXa2ndhmatI",
+							"title": "The Windows Laptop Problem",
+							"publishedAt": "2026-03-25T18:25:28+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/eXa2ndhmatI/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 4447359,
+							"link": "https://www.youtube.com/watch?v=eXa2ndhmatI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "D4QyStJWgCc",
+							"title": "Nothing Phone 4A/Pro Review: I Have a Theory",
+							"publishedAt": "2026-03-19T13:01:11+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/D4QyStJWgCc/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 2534544,
+							"link": "https://www.youtube.com/watch?v=D4QyStJWgCc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "j2rszuZ-9PY",
+							"title": "Reviewing Everything on my Desk! (2026)",
+							"publishedAt": "2026-03-14T20:55:28+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/j2rszuZ-9PY/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 1744416,
+							"link": "https://www.youtube.com/watch?v=j2rszuZ-9PY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "iGeXGdYE7UE",
+							"title": "Macbook Neo Review: Better than you Think!",
+							"publishedAt": "2026-03-10T23:40:30+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/iGeXGdYE7UE/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 4558321,
+							"link": "https://www.youtube.com/watch?v=iGeXGdYE7UE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "yWI33R4xyIc",
+							"title": "Apple Studio Display XDR Review: We're All Pros Now!",
+							"publishedAt": "2026-03-09T20:01:01+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/yWI33R4xyIc/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 1898724,
+							"link": "https://www.youtube.com/watch?v=yWI33R4xyIc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "nfHRMqqO578",
+							"title": "Samsung Galaxy S26 Ultra Review: There's a Catch",
+							"publishedAt": "2026-03-06T20:14:58+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/nfHRMqqO578/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 3272827,
+							"link": "https://www.youtube.com/watch?v=nfHRMqqO578",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "kBX5WH9b4M4",
+							"title": "Macbook Neo Impressions: Reincarnated!",
+							"publishedAt": "2026-03-04T22:26:34+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/kBX5WH9b4M4/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 7270789,
+							"link": "https://www.youtube.com/watch?v=kBX5WH9b4M4",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "wRaDbRjVrc4",
+							"title": "Samsung Galaxy Buds 4 Pro Review: Better than AirPods!",
+							"publishedAt": "2026-02-28T22:55:15+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/wRaDbRjVrc4/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 2297618,
+							"link": "https://www.youtube.com/watch?v=wRaDbRjVrc4",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "FRI78tq9Eik",
+							"title": "Samsung Galaxy S26/Ultra Impressions: 1 Crazy Display Feature!",
+							"publishedAt": "2026-02-25T18:00:45+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/FRI78tq9Eik/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 4314177,
+							"link": "https://www.youtube.com/watch?v=FRI78tq9Eik",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "iCSg_ul3G2w",
+							"title": "Google Pixel 10A Impressions: (Never) Seen This Before",
+							"publishedAt": "2026-02-18T15:00:48+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/iCSg_ul3G2w/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 3216279,
+							"link": "https://www.youtube.com/watch?v=iCSg_ul3G2w",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "zPAY2VxfFBk",
+							"title": "The Problem with these Smartphone Batteries",
+							"publishedAt": "2026-02-06T21:03:37+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 2189988,
+							"link": "https://www.youtube.com/watch?v=zPAY2VxfFBk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "vZdbbN3FCzE",
+							"title": "The Downfall of OnePlus will be Studied",
+							"publishedAt": "2026-01-26T19:13:01+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/vZdbbN3FCzE/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 4666639,
+							"link": "https://www.youtube.com/watch?v=vZdbbN3FCzE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "DqAKQwagCDg",
+							"title": "Xiaomi 17 Ultra - More Camera than Phone!",
+							"publishedAt": "2026-01-22T19:45:23+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 3844992,
+							"link": "https://www.youtube.com/watch?v=DqAKQwagCDg",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						}
+					]
+				}
+			],
+			"items": [
+				{
+					"videoId": "Hc0aqOEU2w8",
+					"title": "Bluey Phone Review",
+					"publishedAt": "2026-04-01T14:10:50+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/Hc0aqOEU2w8/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 3486442,
+					"link": "https://www.youtube.com/watch?v=Hc0aqOEU2w8",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "eFUB_jL_XcM",
+					"title": "So This is Peak Foldable",
+					"publishedAt": "2026-03-30T20:56:18+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/eFUB_jL_XcM/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 5485993,
+					"link": "https://www.youtube.com/watch?v=eFUB_jL_XcM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "eXa2ndhmatI",
+					"title": "The Windows Laptop Problem",
+					"publishedAt": "2026-03-25T18:25:28+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/eXa2ndhmatI/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 4447359,
+					"link": "https://www.youtube.com/watch?v=eXa2ndhmatI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "D4QyStJWgCc",
+					"title": "Nothing Phone 4A/Pro Review: I Have a Theory",
+					"publishedAt": "2026-03-19T13:01:11+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/D4QyStJWgCc/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 2534544,
+					"link": "https://www.youtube.com/watch?v=D4QyStJWgCc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "j2rszuZ-9PY",
+					"title": "Reviewing Everything on my Desk! (2026)",
+					"publishedAt": "2026-03-14T20:55:28+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/j2rszuZ-9PY/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 1744416,
+					"link": "https://www.youtube.com/watch?v=j2rszuZ-9PY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "iGeXGdYE7UE",
+					"title": "Macbook Neo Review: Better than you Think!",
+					"publishedAt": "2026-03-10T23:40:30+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/iGeXGdYE7UE/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 4558321,
+					"link": "https://www.youtube.com/watch?v=iGeXGdYE7UE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "yWI33R4xyIc",
+					"title": "Apple Studio Display XDR Review: We're All Pros Now!",
+					"publishedAt": "2026-03-09T20:01:01+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/yWI33R4xyIc/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 1898724,
+					"link": "https://www.youtube.com/watch?v=yWI33R4xyIc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "nfHRMqqO578",
+					"title": "Samsung Galaxy S26 Ultra Review: There's a Catch",
+					"publishedAt": "2026-03-06T20:14:58+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/nfHRMqqO578/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 3272827,
+					"link": "https://www.youtube.com/watch?v=nfHRMqqO578",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "kBX5WH9b4M4",
+					"title": "Macbook Neo Impressions: Reincarnated!",
+					"publishedAt": "2026-03-04T22:26:34+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/kBX5WH9b4M4/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 7270789,
+					"link": "https://www.youtube.com/watch?v=kBX5WH9b4M4",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "wRaDbRjVrc4",
+					"title": "Samsung Galaxy Buds 4 Pro Review: Better than AirPods!",
+					"publishedAt": "2026-02-28T22:55:15+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/wRaDbRjVrc4/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 2297618,
+					"link": "https://www.youtube.com/watch?v=wRaDbRjVrc4",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "FRI78tq9Eik",
+					"title": "Samsung Galaxy S26/Ultra Impressions: 1 Crazy Display Feature!",
+					"publishedAt": "2026-02-25T18:00:45+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/FRI78tq9Eik/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 4314177,
+					"link": "https://www.youtube.com/watch?v=FRI78tq9Eik",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "iCSg_ul3G2w",
+					"title": "Google Pixel 10A Impressions: (Never) Seen This Before",
+					"publishedAt": "2026-02-18T15:00:48+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/iCSg_ul3G2w/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 3216279,
+					"link": "https://www.youtube.com/watch?v=iCSg_ul3G2w",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "zPAY2VxfFBk",
+					"title": "The Problem with these Smartphone Batteries",
+					"publishedAt": "2026-02-06T21:03:37+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 2189988,
+					"link": "https://www.youtube.com/watch?v=zPAY2VxfFBk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "vZdbbN3FCzE",
+					"title": "The Downfall of OnePlus will be Studied",
+					"publishedAt": "2026-01-26T19:13:01+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/vZdbbN3FCzE/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 4666639,
+					"link": "https://www.youtube.com/watch?v=vZdbbN3FCzE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "DqAKQwagCDg",
+					"title": "Xiaomi 17 Ultra - More Camera than Phone!",
+					"publishedAt": "2026-01-22T19:45:23+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 3844992,
+					"link": "https://www.youtube.com/watch?v=DqAKQwagCDg",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				}
+			]
+		},
+		{
+			"id": "politics",
+			"label": "Politics",
+			"order": 5,
+			"channels": [
+				{
+					"id": "UULFASM0cgfkJxQ1ICmRilfHLw",
+					"title": "Patrick Boyle",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw",
+					"items": [
+						{
+							"videoId": "8BaSBjxNg-M",
+							"title": "Mark Zuckerberg Spent $88 Billion on a World With No Legs",
+							"publishedAt": "2026-04-12T13:30:06+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/8BaSBjxNg-M/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 527723,
+							"link": "https://www.youtube.com/watch?v=8BaSBjxNg-M",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "Q0jqfKUnQQk",
+							"title": "Canada is a Warning to the Rest of the World!",
+							"publishedAt": "2026-04-06T11:45:06+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/Q0jqfKUnQQk/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 854138,
+							"link": "https://www.youtube.com/watch?v=Q0jqfKUnQQk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "0GGxyIA6Yr0",
+							"title": "The Crisis Hidden Inside the Iran War",
+							"publishedAt": "2026-03-28T08:15:06+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/0GGxyIA6Yr0/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 998299,
+							"link": "https://www.youtube.com/watch?v=0GGxyIA6Yr0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "8Qc5U00IiAk",
+							"title": "The $3.5 Trillion Crisis No One Is Talking About",
+							"publishedAt": "2026-03-20T22:15:06+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/8Qc5U00IiAk/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 741740,
+							"link": "https://www.youtube.com/watch?v=8Qc5U00IiAk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "8rS3fTbC7TE",
+							"title": "SpaceX IPO Scandal",
+							"publishedAt": "2026-03-14T12:45:06+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/8rS3fTbC7TE/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 1170008,
+							"link": "https://www.youtube.com/watch?v=8rS3fTbC7TE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "T3neJOdknqc",
+							"title": "The UK is a Warning to the Rest of the World",
+							"publishedAt": "2026-03-07T16:45:07+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/T3neJOdknqc/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 1067784,
+							"link": "https://www.youtube.com/watch?v=T3neJOdknqc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "ChdQciz1gns",
+							"title": "The Winners & Losers from Trumps New Tariffs",
+							"publishedAt": "2026-02-28T16:30:07+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/ChdQciz1gns/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 277180,
+							"link": "https://www.youtube.com/watch?v=ChdQciz1gns",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "Xhrzm4CmpEo",
+							"title": "Bitcoin Is Crashing and Exchanges Freezing Up",
+							"publishedAt": "2026-02-21T13:15:07+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/Xhrzm4CmpEo/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 1007723,
+							"link": "https://www.youtube.com/watch?v=Xhrzm4CmpEo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "cvOuN5KqufE",
+							"title": "Epstein Files: The 6 Names the DOJ Didn't Want You to See",
+							"publishedAt": "2026-02-13T23:45:07+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/cvOuN5KqufE/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 944091,
+							"link": "https://www.youtube.com/watch?v=cvOuN5KqufE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "e-tapKoT1K0",
+							"title": "The Devil Himself! - The Worst of The Epstein Files",
+							"publishedAt": "2026-02-08T18:00:07+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/e-tapKoT1K0/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 1877976,
+							"link": "https://www.youtube.com/watch?v=e-tapKoT1K0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "n_wNCLdlV7w",
+							"title": "Don’t Say Epstein!",
+							"publishedAt": "2026-01-31T13:30:07+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/n_wNCLdlV7w/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 424968,
+							"link": "https://www.youtube.com/watch?v=n_wNCLdlV7w",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "L_zlYjjtNPM",
+							"title": "Does Europe Have a Financial Nuclear Option?",
+							"publishedAt": "2026-01-25T17:30:07+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/L_zlYjjtNPM/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 487528,
+							"link": "https://www.youtube.com/watch?v=L_zlYjjtNPM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "QXUQ7PzuIe0",
+							"title": "\"Will No One Rid Me of This Turbulent Priest?\": Trump’s Fed War",
+							"publishedAt": "2026-01-18T20:00:07+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/QXUQ7PzuIe0/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 443124,
+							"link": "https://www.youtube.com/watch?v=QXUQ7PzuIe0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "5FbTv5CSnZA",
+							"title": "Trump vs. The World",
+							"publishedAt": "2026-01-11T14:00:07+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/5FbTv5CSnZA/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 560486,
+							"link": "https://www.youtube.com/watch?v=5FbTv5CSnZA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						},
+						{
+							"videoId": "AJP6K2_rr90",
+							"title": "YouTube Censorship: The Video They Didn't Want You to See!",
+							"publishedAt": "2026-01-04T11:45:08+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/AJP6K2_rr90/hqdefault.jpg",
+							"channelTitle": "Patrick Boyle",
+							"viewCount": 795286,
+							"link": "https://www.youtube.com/watch?v=AJP6K2_rr90",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+						}
+					]
+				},
+				{
+					"id": "UULF3Vuq4Q1bKFtAiKYlwRv3oA",
+					"title": "Peter Santenello",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA",
+					"items": [
+						{
+							"videoId": "jNts7HwA3p0",
+							"title": "Inside Arizona’s Most Unusual Towns",
+							"publishedAt": "2026-04-11T15:01:12+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/jNts7HwA3p0/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 347528,
+							"link": "https://www.youtube.com/watch?v=jNts7HwA3p0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "u1-P4UAZ9U8",
+							"title": "Old Florida - The Last Outlaws of the Everglades",
+							"publishedAt": "2026-04-04T15:01:23+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/u1-P4UAZ9U8/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 746135,
+							"link": "https://www.youtube.com/watch?v=u1-P4UAZ9U8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "cMQ-kll4N8Q",
+							"title": "He Built a Better Way to Live Off-Grid (40 Acres)",
+							"publishedAt": "2026-03-21T15:01:02+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/cMQ-kll4N8Q/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1185333,
+							"link": "https://www.youtube.com/watch?v=cMQ-kll4N8Q",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "OMDpXIaRbaE",
+							"title": "Three Islands, Three Different Worlds on Georgia’s Coast",
+							"publishedAt": "2026-03-14T15:00:40+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/OMDpXIaRbaE/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1107720,
+							"link": "https://www.youtube.com/watch?v=OMDpXIaRbaE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "nwcn4HzfKeo",
+							"title": "The Savannah Tourists Don't See",
+							"publishedAt": "2026-03-07T16:01:00+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/nwcn4HzfKeo/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 909175,
+							"link": "https://www.youtube.com/watch?v=nwcn4HzfKeo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "3sjlNScoR3w",
+							"title": "I Went to Florida's Remote Prison Towns",
+							"publishedAt": "2026-02-21T16:00:11+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/3sjlNScoR3w/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1141595,
+							"link": "https://www.youtube.com/watch?v=3sjlNScoR3w",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "Z4UdTLsiyYw",
+							"title": "Solo in the Florida Tourists Never See",
+							"publishedAt": "2026-02-14T16:00:49+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/Z4UdTLsiyYw/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1352756,
+							"link": "https://www.youtube.com/watch?v=Z4UdTLsiyYw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "dx8ikG2fXOk",
+							"title": "Life Deep in the Florida Swamps",
+							"publishedAt": "2026-02-07T16:00:50+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/dx8ikG2fXOk/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 2489342,
+							"link": "https://www.youtube.com/watch?v=dx8ikG2fXOk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "d3R5MZGGjzU",
+							"title": "Life Inside a Town Owned by One Company",
+							"publishedAt": "2025-12-20T16:00:58+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/d3R5MZGGjzU/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1754052,
+							"link": "https://www.youtube.com/watch?v=d3R5MZGGjzU",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "kYvbGGN-Zcw",
+							"title": "This Border City Isn't What You Think (El Paso)",
+							"publishedAt": "2025-12-13T16:01:11+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/kYvbGGN-Zcw/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1573294,
+							"link": "https://www.youtube.com/watch?v=kYvbGGN-Zcw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "EqunNHOOnmg",
+							"title": "Life in New Mexico’s Most Isolated Towns",
+							"publishedAt": "2025-12-06T16:00:20+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/EqunNHOOnmg/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1599485,
+							"link": "https://www.youtube.com/watch?v=EqunNHOOnmg",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "F74xFkF-qYM",
+							"title": "Inside the Off-Grid Earthship Community in New Mexico",
+							"publishedAt": "2025-11-15T16:00:21+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/F74xFkF-qYM/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 2334773,
+							"link": "https://www.youtube.com/watch?v=F74xFkF-qYM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "eo7LjeeO-Xc",
+							"title": "Inside America’s 'Closed Off' Nuclear Town",
+							"publishedAt": "2025-11-08T16:00:59+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/eo7LjeeO-Xc/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1266173,
+							"link": "https://www.youtube.com/watch?v=eo7LjeeO-Xc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "sJnGZRc_rcA",
+							"title": "Inside Albuquerque - What’s It Really Like",
+							"publishedAt": "2025-11-01T15:01:36+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/sJnGZRc_rcA/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 1202345,
+							"link": "https://www.youtube.com/watch?v=sJnGZRc_rcA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						},
+						{
+							"videoId": "Df8CcPXLsWU",
+							"title": "Solo in Remote Arizona - Skull Valley to a Company Town",
+							"publishedAt": "2025-10-18T15:00:32+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/Df8CcPXLsWU/hqdefault.jpg",
+							"channelTitle": "Peter Santenello",
+							"viewCount": 2108337,
+							"link": "https://www.youtube.com/watch?v=Df8CcPXLsWU",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+						}
+					]
+				},
+				{
+					"id": "UULFHpw8xwDNhU9gdohEcJu4aA",
+					"title": "The Guardian",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA",
+					"items": [
+						{
+							"videoId": "etaa_ufWmBY",
+							"title": "Orbán is out: What Hungary teaches us about how to end an oligarchy | On the Ground",
+							"publishedAt": "2026-04-07T13:57:11+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/etaa_ufWmBY/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 426072,
+							"link": "https://www.youtube.com/watch?v=etaa_ufWmBY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "k8LvDrXnkj0",
+							"title": "Abel leaves LA: self-deportation from Trump's America | Documentary",
+							"publishedAt": "2026-03-24T11:11:18+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/k8LvDrXnkj0/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 43036,
+							"link": "https://www.youtube.com/watch?v=k8LvDrXnkj0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "0ROaYEKNRrQ",
+							"title": "'They are brainwashed': Iranian diaspora clash over Middle East war | The View From",
+							"publishedAt": "2026-03-20T09:17:05+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/0ROaYEKNRrQ/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 63712,
+							"link": "https://www.youtube.com/watch?v=0ROaYEKNRrQ",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "9C6AGYSXHW0",
+							"title": "Revealed: Nigel Farage Cameo videos show support for neo-Nazi event and far-right slogans",
+							"publishedAt": "2026-03-17T17:35:01+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/9C6AGYSXHW0/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 164091,
+							"link": "https://www.youtube.com/watch?v=9C6AGYSXHW0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "5dJJ2gfMPiY",
+							"title": "'Gringo go home': Mexico’s growing tourism backlash | On the Ground",
+							"publishedAt": "2026-03-05T09:44:01+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/5dJJ2gfMPiY/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 204012,
+							"link": "https://www.youtube.com/watch?v=5dJJ2gfMPiY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "s0j7UfTt5gw",
+							"title": "'Israel is promised only to the Jewish people' | In search of Palestine: episode 2",
+							"publishedAt": "2026-02-26T10:03:59+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/s0j7UfTt5gw/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 486989,
+							"link": "https://www.youtube.com/watch?v=s0j7UfTt5gw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "EoblmWzXozI",
+							"title": "Three years in Russian captivity; the psychological rehabilitation of a Ukrainian soldier",
+							"publishedAt": "2026-02-24T11:03:58+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/EoblmWzXozI/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 81346,
+							"link": "https://www.youtube.com/watch?v=EoblmWzXozI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "NQdB9xPhBCo",
+							"title": "'In Israel's eyes, we are terrorists' | In search of Palestine: episode 1",
+							"publishedAt": "2026-02-17T09:46:34+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/NQdB9xPhBCo/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 1008309,
+							"link": "https://www.youtube.com/watch?v=NQdB9xPhBCo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "jDw7JtwWIYc",
+							"title": "‘Palestine Action is back’: Terror ban ruled unlawful by High Court | The View From",
+							"publishedAt": "2026-02-13T18:59:26+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/jDw7JtwWIYc/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 47408,
+							"link": "https://www.youtube.com/watch?v=jDw7JtwWIYc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "UH8ouQh0e6Q",
+							"title": "​'Daddy, I missed you': The Ukrainian soldiers returning from Russian captivity | The View From",
+							"publishedAt": "2026-02-12T09:47:17+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/UH8ouQh0e6Q/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 26412,
+							"link": "https://www.youtube.com/watch?v=UH8ouQh0e6Q",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "jhVUyJ8gGZw",
+							"title": "Why this Manchester byelection is a lesson in 21st century politics | Anywhere but Westminster",
+							"publishedAt": "2026-02-04T11:02:11+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/jhVUyJ8gGZw/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 131071,
+							"link": "https://www.youtube.com/watch?v=jhVUyJ8gGZw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "CFBvYve92_M",
+							"title": "The occupation of Minneapolis: resisting Trump’s ICE 'invasion' | Anywhere but Washington",
+							"publishedAt": "2026-01-23T11:01:59+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/CFBvYve92_M/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 260372,
+							"link": "https://www.youtube.com/watch?v=CFBvYve92_M",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "-GFb39Avq4g",
+							"title": "The influencer racing to save Thailand’s most endangered sea mammal | Documentary",
+							"publishedAt": "2026-01-20T11:04:15+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/-GFb39Avq4g/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 37869,
+							"link": "https://www.youtube.com/watch?v=-GFb39Avq4g",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "RojgoADuoVA",
+							"title": "Rising hate in the UK: 'Abusing Muslims is not going to fix this country' | On the Ground",
+							"publishedAt": "2025-12-22T10:52:52+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/RojgoADuoVA/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 129002,
+							"link": "https://www.youtube.com/watch?v=RojgoADuoVA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						},
+						{
+							"videoId": "lVay6u732BQ",
+							"title": "Threshold: the choir who sing to the dying - documentary",
+							"publishedAt": "2025-12-12T11:10:19+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/lVay6u732BQ/hqdefault.jpg",
+							"channelTitle": "The Guardian",
+							"viewCount": 67160,
+							"link": "https://www.youtube.com/watch?v=lVay6u732BQ",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+						}
+					]
+				}
+			],
+			"items": [
+				{
+					"videoId": "8BaSBjxNg-M",
+					"title": "Mark Zuckerberg Spent $88 Billion on a World With No Legs",
+					"publishedAt": "2026-04-12T13:30:06+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/8BaSBjxNg-M/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 527723,
+					"link": "https://www.youtube.com/watch?v=8BaSBjxNg-M",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "jNts7HwA3p0",
+					"title": "Inside Arizona’s Most Unusual Towns",
+					"publishedAt": "2026-04-11T15:01:12+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/jNts7HwA3p0/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 347528,
+					"link": "https://www.youtube.com/watch?v=jNts7HwA3p0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "etaa_ufWmBY",
+					"title": "Orbán is out: What Hungary teaches us about how to end an oligarchy | On the Ground",
+					"publishedAt": "2026-04-07T13:57:11+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/etaa_ufWmBY/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 426072,
+					"link": "https://www.youtube.com/watch?v=etaa_ufWmBY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "Q0jqfKUnQQk",
+					"title": "Canada is a Warning to the Rest of the World!",
+					"publishedAt": "2026-04-06T11:45:06+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/Q0jqfKUnQQk/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 854138,
+					"link": "https://www.youtube.com/watch?v=Q0jqfKUnQQk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "u1-P4UAZ9U8",
+					"title": "Old Florida - The Last Outlaws of the Everglades",
+					"publishedAt": "2026-04-04T15:01:23+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/u1-P4UAZ9U8/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 746135,
+					"link": "https://www.youtube.com/watch?v=u1-P4UAZ9U8",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "0GGxyIA6Yr0",
+					"title": "The Crisis Hidden Inside the Iran War",
+					"publishedAt": "2026-03-28T08:15:06+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/0GGxyIA6Yr0/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 998299,
+					"link": "https://www.youtube.com/watch?v=0GGxyIA6Yr0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "k8LvDrXnkj0",
+					"title": "Abel leaves LA: self-deportation from Trump's America | Documentary",
+					"publishedAt": "2026-03-24T11:11:18+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/k8LvDrXnkj0/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 43036,
+					"link": "https://www.youtube.com/watch?v=k8LvDrXnkj0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "cMQ-kll4N8Q",
+					"title": "He Built a Better Way to Live Off-Grid (40 Acres)",
+					"publishedAt": "2026-03-21T15:01:02+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/cMQ-kll4N8Q/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 1185333,
+					"link": "https://www.youtube.com/watch?v=cMQ-kll4N8Q",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "8Qc5U00IiAk",
+					"title": "The $3.5 Trillion Crisis No One Is Talking About",
+					"publishedAt": "2026-03-20T22:15:06+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/8Qc5U00IiAk/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 741740,
+					"link": "https://www.youtube.com/watch?v=8Qc5U00IiAk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "0ROaYEKNRrQ",
+					"title": "'They are brainwashed': Iranian diaspora clash over Middle East war | The View From",
+					"publishedAt": "2026-03-20T09:17:05+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/0ROaYEKNRrQ/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 63712,
+					"link": "https://www.youtube.com/watch?v=0ROaYEKNRrQ",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "9C6AGYSXHW0",
+					"title": "Revealed: Nigel Farage Cameo videos show support for neo-Nazi event and far-right slogans",
+					"publishedAt": "2026-03-17T17:35:01+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/9C6AGYSXHW0/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 164091,
+					"link": "https://www.youtube.com/watch?v=9C6AGYSXHW0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "OMDpXIaRbaE",
+					"title": "Three Islands, Three Different Worlds on Georgia’s Coast",
+					"publishedAt": "2026-03-14T15:00:40+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/OMDpXIaRbaE/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 1107720,
+					"link": "https://www.youtube.com/watch?v=OMDpXIaRbaE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "8rS3fTbC7TE",
+					"title": "SpaceX IPO Scandal",
+					"publishedAt": "2026-03-14T12:45:06+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/8rS3fTbC7TE/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 1170008,
+					"link": "https://www.youtube.com/watch?v=8rS3fTbC7TE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "T3neJOdknqc",
+					"title": "The UK is a Warning to the Rest of the World",
+					"publishedAt": "2026-03-07T16:45:07+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/T3neJOdknqc/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 1067784,
+					"link": "https://www.youtube.com/watch?v=T3neJOdknqc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "nwcn4HzfKeo",
+					"title": "The Savannah Tourists Don't See",
+					"publishedAt": "2026-03-07T16:01:00+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/nwcn4HzfKeo/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 909175,
+					"link": "https://www.youtube.com/watch?v=nwcn4HzfKeo",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "5dJJ2gfMPiY",
+					"title": "'Gringo go home': Mexico’s growing tourism backlash | On the Ground",
+					"publishedAt": "2026-03-05T09:44:01+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/5dJJ2gfMPiY/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 204012,
+					"link": "https://www.youtube.com/watch?v=5dJJ2gfMPiY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "ChdQciz1gns",
+					"title": "The Winners & Losers from Trumps New Tariffs",
+					"publishedAt": "2026-02-28T16:30:07+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/ChdQciz1gns/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 277180,
+					"link": "https://www.youtube.com/watch?v=ChdQciz1gns",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "s0j7UfTt5gw",
+					"title": "'Israel is promised only to the Jewish people' | In search of Palestine: episode 2",
+					"publishedAt": "2026-02-26T10:03:59+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/s0j7UfTt5gw/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 486989,
+					"link": "https://www.youtube.com/watch?v=s0j7UfTt5gw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "EoblmWzXozI",
+					"title": "Three years in Russian captivity; the psychological rehabilitation of a Ukrainian soldier",
+					"publishedAt": "2026-02-24T11:03:58+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/EoblmWzXozI/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 81346,
+					"link": "https://www.youtube.com/watch?v=EoblmWzXozI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "3sjlNScoR3w",
+					"title": "I Went to Florida's Remote Prison Towns",
+					"publishedAt": "2026-02-21T16:00:11+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/3sjlNScoR3w/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 1141595,
+					"link": "https://www.youtube.com/watch?v=3sjlNScoR3w",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "Xhrzm4CmpEo",
+					"title": "Bitcoin Is Crashing and Exchanges Freezing Up",
+					"publishedAt": "2026-02-21T13:15:07+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/Xhrzm4CmpEo/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 1007723,
+					"link": "https://www.youtube.com/watch?v=Xhrzm4CmpEo",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "NQdB9xPhBCo",
+					"title": "'In Israel's eyes, we are terrorists' | In search of Palestine: episode 1",
+					"publishedAt": "2026-02-17T09:46:34+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/NQdB9xPhBCo/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 1008309,
+					"link": "https://www.youtube.com/watch?v=NQdB9xPhBCo",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "Z4UdTLsiyYw",
+					"title": "Solo in the Florida Tourists Never See",
+					"publishedAt": "2026-02-14T16:00:49+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/Z4UdTLsiyYw/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 1352756,
+					"link": "https://www.youtube.com/watch?v=Z4UdTLsiyYw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "cvOuN5KqufE",
+					"title": "Epstein Files: The 6 Names the DOJ Didn't Want You to See",
+					"publishedAt": "2026-02-13T23:45:07+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/cvOuN5KqufE/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 944091,
+					"link": "https://www.youtube.com/watch?v=cvOuN5KqufE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "jDw7JtwWIYc",
+					"title": "‘Palestine Action is back’: Terror ban ruled unlawful by High Court | The View From",
+					"publishedAt": "2026-02-13T18:59:26+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/jDw7JtwWIYc/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 47408,
+					"link": "https://www.youtube.com/watch?v=jDw7JtwWIYc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "UH8ouQh0e6Q",
+					"title": "​'Daddy, I missed you': The Ukrainian soldiers returning from Russian captivity | The View From",
+					"publishedAt": "2026-02-12T09:47:17+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/UH8ouQh0e6Q/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 26412,
+					"link": "https://www.youtube.com/watch?v=UH8ouQh0e6Q",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "e-tapKoT1K0",
+					"title": "The Devil Himself! - The Worst of The Epstein Files",
+					"publishedAt": "2026-02-08T18:00:07+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/e-tapKoT1K0/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 1877976,
+					"link": "https://www.youtube.com/watch?v=e-tapKoT1K0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "dx8ikG2fXOk",
+					"title": "Life Deep in the Florida Swamps",
+					"publishedAt": "2026-02-07T16:00:50+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/dx8ikG2fXOk/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 2489342,
+					"link": "https://www.youtube.com/watch?v=dx8ikG2fXOk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "jhVUyJ8gGZw",
+					"title": "Why this Manchester byelection is a lesson in 21st century politics | Anywhere but Westminster",
+					"publishedAt": "2026-02-04T11:02:11+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/jhVUyJ8gGZw/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 131071,
+					"link": "https://www.youtube.com/watch?v=jhVUyJ8gGZw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "n_wNCLdlV7w",
+					"title": "Don’t Say Epstein!",
+					"publishedAt": "2026-01-31T13:30:07+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/n_wNCLdlV7w/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 424968,
+					"link": "https://www.youtube.com/watch?v=n_wNCLdlV7w",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "L_zlYjjtNPM",
+					"title": "Does Europe Have a Financial Nuclear Option?",
+					"publishedAt": "2026-01-25T17:30:07+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/L_zlYjjtNPM/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 487528,
+					"link": "https://www.youtube.com/watch?v=L_zlYjjtNPM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "CFBvYve92_M",
+					"title": "The occupation of Minneapolis: resisting Trump’s ICE 'invasion' | Anywhere but Washington",
+					"publishedAt": "2026-01-23T11:01:59+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/CFBvYve92_M/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 260372,
+					"link": "https://www.youtube.com/watch?v=CFBvYve92_M",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "-GFb39Avq4g",
+					"title": "The influencer racing to save Thailand’s most endangered sea mammal | Documentary",
+					"publishedAt": "2026-01-20T11:04:15+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/-GFb39Avq4g/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 37869,
+					"link": "https://www.youtube.com/watch?v=-GFb39Avq4g",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "QXUQ7PzuIe0",
+					"title": "\"Will No One Rid Me of This Turbulent Priest?\": Trump’s Fed War",
+					"publishedAt": "2026-01-18T20:00:07+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/QXUQ7PzuIe0/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 443124,
+					"link": "https://www.youtube.com/watch?v=QXUQ7PzuIe0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "5FbTv5CSnZA",
+					"title": "Trump vs. The World",
+					"publishedAt": "2026-01-11T14:00:07+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/5FbTv5CSnZA/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 560486,
+					"link": "https://www.youtube.com/watch?v=5FbTv5CSnZA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "AJP6K2_rr90",
+					"title": "YouTube Censorship: The Video They Didn't Want You to See!",
+					"publishedAt": "2026-01-04T11:45:08+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/AJP6K2_rr90/hqdefault.jpg",
+					"channelTitle": "Patrick Boyle",
+					"viewCount": 795286,
+					"link": "https://www.youtube.com/watch?v=AJP6K2_rr90",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw"
+				},
+				{
+					"videoId": "RojgoADuoVA",
+					"title": "Rising hate in the UK: 'Abusing Muslims is not going to fix this country' | On the Ground",
+					"publishedAt": "2025-12-22T10:52:52+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/RojgoADuoVA/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 129002,
+					"link": "https://www.youtube.com/watch?v=RojgoADuoVA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "d3R5MZGGjzU",
+					"title": "Life Inside a Town Owned by One Company",
+					"publishedAt": "2025-12-20T16:00:58+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/d3R5MZGGjzU/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 1754052,
+					"link": "https://www.youtube.com/watch?v=d3R5MZGGjzU",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "kYvbGGN-Zcw",
+					"title": "This Border City Isn't What You Think (El Paso)",
+					"publishedAt": "2025-12-13T16:01:11+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/kYvbGGN-Zcw/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 1573294,
+					"link": "https://www.youtube.com/watch?v=kYvbGGN-Zcw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "lVay6u732BQ",
+					"title": "Threshold: the choir who sing to the dying - documentary",
+					"publishedAt": "2025-12-12T11:10:19+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/lVay6u732BQ/hqdefault.jpg",
+					"channelTitle": "The Guardian",
+					"viewCount": 67160,
+					"link": "https://www.youtube.com/watch?v=lVay6u732BQ",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA"
+				},
+				{
+					"videoId": "EqunNHOOnmg",
+					"title": "Life in New Mexico’s Most Isolated Towns",
+					"publishedAt": "2025-12-06T16:00:20+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/EqunNHOOnmg/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 1599485,
+					"link": "https://www.youtube.com/watch?v=EqunNHOOnmg",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				},
+				{
+					"videoId": "F74xFkF-qYM",
+					"title": "Inside the Off-Grid Earthship Community in New Mexico",
+					"publishedAt": "2025-11-15T16:00:21+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/F74xFkF-qYM/hqdefault.jpg",
+					"channelTitle": "Peter Santenello",
+					"viewCount": 2334773,
+					"link": "https://www.youtube.com/watch?v=F74xFkF-qYM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA"
+				}
+			]
+		},
+		{
+			"id": "running",
+			"label": "Running",
+			"order": 6,
+			"channels": [
+				{
+					"id": "UULFe43pe3w4L6w3tNMRkWiJBA",
+					"title": "kofuzi",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA",
+					"items": [
+						{
+							"videoId": "DZNsTbE_IsA",
+							"title": "Mizuno Neo Zen 2",
+							"publishedAt": "2026-04-07T16:54:03+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/DZNsTbE_IsA/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 10890,
+							"link": "https://www.youtube.com/watch?v=DZNsTbE_IsA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "zOAFSCwkWH4",
+							"title": "New Balance 1080v15",
+							"publishedAt": "2026-04-03T12:02:07+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/zOAFSCwkWH4/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 34334,
+							"link": "https://www.youtube.com/watch?v=zOAFSCwkWH4",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "zgl3bH0ZLw8",
+							"title": "Skechers Running Aero Razor",
+							"publishedAt": "2026-04-01T15:57:10+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/zgl3bH0ZLw8/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 12972,
+							"link": "https://www.youtube.com/watch?v=zgl3bH0ZLw8",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "Wd11nr3VdTI",
+							"title": "Runner's Weekend Los Angeles, Part 2",
+							"publishedAt": "2026-03-30T15:36:05+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/Wd11nr3VdTI/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 10827,
+							"link": "https://www.youtube.com/watch?v=Wd11nr3VdTI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "cM182tywFPE",
+							"title": "On Cloudmonster 3 Hyper",
+							"publishedAt": "2026-03-27T12:01:01+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/cM182tywFPE/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 23127,
+							"link": "https://www.youtube.com/watch?v=cM182tywFPE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "OopYf3VD1KI",
+							"title": "Li-Ning Feidian 6 Elite",
+							"publishedAt": "2026-03-25T12:00:44+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/OopYf3VD1KI/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 36899,
+							"link": "https://www.youtube.com/watch?v=OopYf3VD1KI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "eZVukLMrato",
+							"title": "Brooks Running 2026 Spring Summer",
+							"publishedAt": "2026-03-23T12:01:07+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/eZVukLMrato/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 18673,
+							"link": "https://www.youtube.com/watch?v=eZVukLMrato",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "qbmgOJ1P9EY",
+							"title": "adidas Hyperboost Edge Launch Event in Los Angeles",
+							"publishedAt": "2026-03-17T12:01:35+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/qbmgOJ1P9EY/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 21804,
+							"link": "https://www.youtube.com/watch?v=qbmgOJ1P9EY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "vBxHPseKaZk",
+							"title": "Hoka Mach 7",
+							"publishedAt": "2026-03-16T14:28:03+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/vBxHPseKaZk/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 27400,
+							"link": "https://www.youtube.com/watch?v=vBxHPseKaZk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "9bYYunDx-Qw",
+							"title": "Mizuno Running - Spring 2026",
+							"publishedAt": "2026-03-09T15:16:46+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/9bYYunDx-Qw/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 22290,
+							"link": "https://www.youtube.com/watch?v=9bYYunDx-Qw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "bI6rVkdhl_4",
+							"title": "adidas Hyperboost Edge",
+							"publishedAt": "2026-03-05T22:00:37+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/bI6rVkdhl_4/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 88186,
+							"link": "https://www.youtube.com/watch?v=bI6rVkdhl_4",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "xDCHSC6C5l0",
+							"title": "On LightSpray Cloudmonster 3 Hyper",
+							"publishedAt": "2026-03-02T14:15:47+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/xDCHSC6C5l0/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 34659,
+							"link": "https://www.youtube.com/watch?v=xDCHSC6C5l0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "ATT21_Uzn2w",
+							"title": "Saucony Running Spring 2026",
+							"publishedAt": "2026-02-27T17:54:13+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/ATT21_Uzn2w/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 28900,
+							"link": "https://www.youtube.com/watch?v=ATT21_Uzn2w",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "2x3uG-YKmcA",
+							"title": "New Balance Ellipse - the 1080 you really wanted? (or the 880 you really wanted?)",
+							"publishedAt": "2026-02-25T19:16:57+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/2x3uG-YKmcA/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 48310,
+							"link": "https://www.youtube.com/watch?v=2x3uG-YKmcA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						},
+						{
+							"videoId": "XI66s1ejGyM",
+							"title": "Black Canyon 100k",
+							"publishedAt": "2026-02-20T20:28:36+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/XI66s1ejGyM/hqdefault.jpg",
+							"channelTitle": "kofuzi",
+							"viewCount": 33610,
+							"link": "https://www.youtube.com/watch?v=XI66s1ejGyM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+						}
+					]
+				}
+			],
+			"items": [
+				{
+					"videoId": "DZNsTbE_IsA",
+					"title": "Mizuno Neo Zen 2",
+					"publishedAt": "2026-04-07T16:54:03+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/DZNsTbE_IsA/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 10890,
+					"link": "https://www.youtube.com/watch?v=DZNsTbE_IsA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "zOAFSCwkWH4",
+					"title": "New Balance 1080v15",
+					"publishedAt": "2026-04-03T12:02:07+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/zOAFSCwkWH4/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 34334,
+					"link": "https://www.youtube.com/watch?v=zOAFSCwkWH4",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "zgl3bH0ZLw8",
+					"title": "Skechers Running Aero Razor",
+					"publishedAt": "2026-04-01T15:57:10+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/zgl3bH0ZLw8/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 12972,
+					"link": "https://www.youtube.com/watch?v=zgl3bH0ZLw8",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "Wd11nr3VdTI",
+					"title": "Runner's Weekend Los Angeles, Part 2",
+					"publishedAt": "2026-03-30T15:36:05+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/Wd11nr3VdTI/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 10827,
+					"link": "https://www.youtube.com/watch?v=Wd11nr3VdTI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "cM182tywFPE",
+					"title": "On Cloudmonster 3 Hyper",
+					"publishedAt": "2026-03-27T12:01:01+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/cM182tywFPE/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 23127,
+					"link": "https://www.youtube.com/watch?v=cM182tywFPE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "OopYf3VD1KI",
+					"title": "Li-Ning Feidian 6 Elite",
+					"publishedAt": "2026-03-25T12:00:44+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/OopYf3VD1KI/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 36899,
+					"link": "https://www.youtube.com/watch?v=OopYf3VD1KI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "eZVukLMrato",
+					"title": "Brooks Running 2026 Spring Summer",
+					"publishedAt": "2026-03-23T12:01:07+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/eZVukLMrato/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 18673,
+					"link": "https://www.youtube.com/watch?v=eZVukLMrato",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "qbmgOJ1P9EY",
+					"title": "adidas Hyperboost Edge Launch Event in Los Angeles",
+					"publishedAt": "2026-03-17T12:01:35+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/qbmgOJ1P9EY/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 21804,
+					"link": "https://www.youtube.com/watch?v=qbmgOJ1P9EY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "vBxHPseKaZk",
+					"title": "Hoka Mach 7",
+					"publishedAt": "2026-03-16T14:28:03+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/vBxHPseKaZk/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 27400,
+					"link": "https://www.youtube.com/watch?v=vBxHPseKaZk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "9bYYunDx-Qw",
+					"title": "Mizuno Running - Spring 2026",
+					"publishedAt": "2026-03-09T15:16:46+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/9bYYunDx-Qw/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 22290,
+					"link": "https://www.youtube.com/watch?v=9bYYunDx-Qw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "bI6rVkdhl_4",
+					"title": "adidas Hyperboost Edge",
+					"publishedAt": "2026-03-05T22:00:37+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/bI6rVkdhl_4/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 88186,
+					"link": "https://www.youtube.com/watch?v=bI6rVkdhl_4",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "xDCHSC6C5l0",
+					"title": "On LightSpray Cloudmonster 3 Hyper",
+					"publishedAt": "2026-03-02T14:15:47+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/xDCHSC6C5l0/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 34659,
+					"link": "https://www.youtube.com/watch?v=xDCHSC6C5l0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "ATT21_Uzn2w",
+					"title": "Saucony Running Spring 2026",
+					"publishedAt": "2026-02-27T17:54:13+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/ATT21_Uzn2w/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 28900,
+					"link": "https://www.youtube.com/watch?v=ATT21_Uzn2w",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "2x3uG-YKmcA",
+					"title": "New Balance Ellipse - the 1080 you really wanted? (or the 880 you really wanted?)",
+					"publishedAt": "2026-02-25T19:16:57+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/2x3uG-YKmcA/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 48310,
+					"link": "https://www.youtube.com/watch?v=2x3uG-YKmcA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				},
+				{
+					"videoId": "XI66s1ejGyM",
+					"title": "Black Canyon 100k",
+					"publishedAt": "2026-02-20T20:28:36+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/XI66s1ejGyM/hqdefault.jpg",
+					"channelTitle": "kofuzi",
+					"viewCount": 33610,
+					"link": "https://www.youtube.com/watch?v=XI66s1ejGyM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA"
+				}
+			]
+		},
+		{
+			"id": "misc",
+			"label": "Misc",
+			"order": 7,
+			"channels": [
+				{
+					"id": "UULFGZIhR2MNxu5nNQrzmtfYxg",
+					"title": "Agri Tech Media",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg",
+					"items": [
+						{
+							"videoId": "9A_NwZGJ5B0",
+							"title": "🇩🇰 To arbejds-gange i ét under majs-såningen",
+							"publishedAt": "2026-04-11T03:00:06+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/9A_NwZGJ5B0/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 9551,
+							"link": "https://www.youtube.com/watch?v=9A_NwZGJ5B0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "Y2biFE51PWU",
+							"title": "🇩🇰 Foråret på Bornholm - Del 8: Dansk gylleteknologi satte skub i Jespers Landbrugsservice",
+							"publishedAt": "2026-04-08T03:00:34+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/Y2biFE51PWU/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 8318,
+							"link": "https://www.youtube.com/watch?v=Y2biFE51PWU",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "PpCXlLOIFSE",
+							"title": "🇩🇰 Foråret på Bornholm - Del 7: Halm og gylle udgør Emils Maskinstation",
+							"publishedAt": "2026-04-07T03:00:33+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/PpCXlLOIFSE/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 8824,
+							"link": "https://www.youtube.com/watch?v=PpCXlLOIFSE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "-4T_IY2qpak",
+							"title": "🇩🇰 Foråret på Bornholm - Del 6: Gyllespeciale med selvkørende teknik",
+							"publishedAt": "2026-04-06T03:00:00+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/-4T_IY2qpak/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 8741,
+							"link": "https://www.youtube.com/watch?v=-4T_IY2qpak",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "TWb5nckjS6Y",
+							"title": "🇩🇰 Foråret på Bornholm - Del 5: Tæt samarbejde mellem store og små maskin-stationer på Bornholm",
+							"publishedAt": "2026-04-05T03:00:34+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/TWb5nckjS6Y/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 12567,
+							"link": "https://www.youtube.com/watch?v=TWb5nckjS6Y",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "kDxiTic4cSY",
+							"title": "🇩🇰 Foråret på Bornholm - Del 4: Tobias kører Danmarks ældste udlægger på klippeøen",
+							"publishedAt": "2026-04-04T03:00:50+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/kDxiTic4cSY/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 12783,
+							"link": "https://www.youtube.com/watch?v=kDxiTic4cSY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "LSCzxtxSO9g",
+							"title": "🇩🇰 Foråret på Bornholm - Del 3: Ung nyetableret landmand ser lyst på fremtiden med sorte traktorer",
+							"publishedAt": "2026-04-03T06:48:58+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/LSCzxtxSO9g/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 12060,
+							"link": "https://www.youtube.com/watch?v=LSCzxtxSO9g",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "MoctdDiqDKM",
+							"title": "🇩🇰 Foråret på Bornholm - Del 2: Små og store bedrifter samles i FoodBornholm",
+							"publishedAt": "2026-04-02T10:33:58+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/MoctdDiqDKM/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 11453,
+							"link": "https://www.youtube.com/watch?v=MoctdDiqDKM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "OKObox2sJ-U",
+							"title": "🇩🇰 Foråret på Bornholm - Del 1: Central service på øen med én procent af DK's landbrugsareal",
+							"publishedAt": "2026-04-01T03:00:06+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/OKObox2sJ-U/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 13772,
+							"link": "https://www.youtube.com/watch?v=OKObox2sJ-U",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "CXQnHaYe7VA",
+							"title": "🇩🇰 Årets gang hos Midtjydsk Maskinstation - del 1: Stille start på sæsonen",
+							"publishedAt": "2026-03-28T04:00:16+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/CXQnHaYe7VA/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 17857,
+							"link": "https://www.youtube.com/watch?v=CXQnHaYe7VA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "8TIkmzFZrkQ",
+							"title": "🇩🇰 Agri Tech Test: Fendt 832",
+							"publishedAt": "2026-03-25T04:00:06+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/8TIkmzFZrkQ/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 11216,
+							"link": "https://www.youtube.com/watch?v=8TIkmzFZrkQ",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "vVNVHwcAATE",
+							"title": "🇩🇰 Frijsenborg & Wedellsborg i 2025 - Del 10: Frosten giver gode betingelser i skoven",
+							"publishedAt": "2026-03-22T04:00:06+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/vVNVHwcAATE/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 15837,
+							"link": "https://www.youtube.com/watch?v=vVNVHwcAATE",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "G9n2kZd_Axc",
+							"title": "🇩🇰 Klodsede canadier gøres snild med dansk gylleteknik",
+							"publishedAt": "2026-03-21T04:00:22+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/G9n2kZd_Axc/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 14500,
+							"link": "https://www.youtube.com/watch?v=G9n2kZd_Axc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "njjp8cdz1nc",
+							"title": "🇩🇰 Agrifos gør klar til at fordoble arealet til over 6.000 hektar",
+							"publishedAt": "2026-03-19T04:00:06+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/njjp8cdz1nc/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 23821,
+							"link": "https://www.youtube.com/watch?v=njjp8cdz1nc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						},
+						{
+							"videoId": "xv0Ypnxe6Qg",
+							"title": "🇬🇧 The 8R HHP is an easy to drive alternative to the articulated tractor",
+							"publishedAt": "2026-03-17T11:29:04+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/xv0Ypnxe6Qg/hqdefault.jpg",
+							"channelTitle": "Agri Tech Media",
+							"viewCount": 2584,
+							"link": "https://www.youtube.com/watch?v=xv0Ypnxe6Qg",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+						}
+					]
+				}
+			],
+			"items": [
+				{
+					"videoId": "9A_NwZGJ5B0",
+					"title": "🇩🇰 To arbejds-gange i ét under majs-såningen",
+					"publishedAt": "2026-04-11T03:00:06+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/9A_NwZGJ5B0/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 9551,
+					"link": "https://www.youtube.com/watch?v=9A_NwZGJ5B0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "Y2biFE51PWU",
+					"title": "🇩🇰 Foråret på Bornholm - Del 8: Dansk gylleteknologi satte skub i Jespers Landbrugsservice",
+					"publishedAt": "2026-04-08T03:00:34+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/Y2biFE51PWU/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 8318,
+					"link": "https://www.youtube.com/watch?v=Y2biFE51PWU",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "PpCXlLOIFSE",
+					"title": "🇩🇰 Foråret på Bornholm - Del 7: Halm og gylle udgør Emils Maskinstation",
+					"publishedAt": "2026-04-07T03:00:33+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/PpCXlLOIFSE/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 8824,
+					"link": "https://www.youtube.com/watch?v=PpCXlLOIFSE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "-4T_IY2qpak",
+					"title": "🇩🇰 Foråret på Bornholm - Del 6: Gyllespeciale med selvkørende teknik",
+					"publishedAt": "2026-04-06T03:00:00+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/-4T_IY2qpak/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 8741,
+					"link": "https://www.youtube.com/watch?v=-4T_IY2qpak",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "TWb5nckjS6Y",
+					"title": "🇩🇰 Foråret på Bornholm - Del 5: Tæt samarbejde mellem store og små maskin-stationer på Bornholm",
+					"publishedAt": "2026-04-05T03:00:34+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/TWb5nckjS6Y/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 12567,
+					"link": "https://www.youtube.com/watch?v=TWb5nckjS6Y",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "kDxiTic4cSY",
+					"title": "🇩🇰 Foråret på Bornholm - Del 4: Tobias kører Danmarks ældste udlægger på klippeøen",
+					"publishedAt": "2026-04-04T03:00:50+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/kDxiTic4cSY/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 12783,
+					"link": "https://www.youtube.com/watch?v=kDxiTic4cSY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "LSCzxtxSO9g",
+					"title": "🇩🇰 Foråret på Bornholm - Del 3: Ung nyetableret landmand ser lyst på fremtiden med sorte traktorer",
+					"publishedAt": "2026-04-03T06:48:58+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/LSCzxtxSO9g/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 12060,
+					"link": "https://www.youtube.com/watch?v=LSCzxtxSO9g",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "MoctdDiqDKM",
+					"title": "🇩🇰 Foråret på Bornholm - Del 2: Små og store bedrifter samles i FoodBornholm",
+					"publishedAt": "2026-04-02T10:33:58+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/MoctdDiqDKM/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 11453,
+					"link": "https://www.youtube.com/watch?v=MoctdDiqDKM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "OKObox2sJ-U",
+					"title": "🇩🇰 Foråret på Bornholm - Del 1: Central service på øen med én procent af DK's landbrugsareal",
+					"publishedAt": "2026-04-01T03:00:06+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/OKObox2sJ-U/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 13772,
+					"link": "https://www.youtube.com/watch?v=OKObox2sJ-U",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "CXQnHaYe7VA",
+					"title": "🇩🇰 Årets gang hos Midtjydsk Maskinstation - del 1: Stille start på sæsonen",
+					"publishedAt": "2026-03-28T04:00:16+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/CXQnHaYe7VA/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 17857,
+					"link": "https://www.youtube.com/watch?v=CXQnHaYe7VA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "8TIkmzFZrkQ",
+					"title": "🇩🇰 Agri Tech Test: Fendt 832",
+					"publishedAt": "2026-03-25T04:00:06+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/8TIkmzFZrkQ/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 11216,
+					"link": "https://www.youtube.com/watch?v=8TIkmzFZrkQ",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "vVNVHwcAATE",
+					"title": "🇩🇰 Frijsenborg & Wedellsborg i 2025 - Del 10: Frosten giver gode betingelser i skoven",
+					"publishedAt": "2026-03-22T04:00:06+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/vVNVHwcAATE/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 15837,
+					"link": "https://www.youtube.com/watch?v=vVNVHwcAATE",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "G9n2kZd_Axc",
+					"title": "🇩🇰 Klodsede canadier gøres snild med dansk gylleteknik",
+					"publishedAt": "2026-03-21T04:00:22+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/G9n2kZd_Axc/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 14500,
+					"link": "https://www.youtube.com/watch?v=G9n2kZd_Axc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "njjp8cdz1nc",
+					"title": "🇩🇰 Agrifos gør klar til at fordoble arealet til over 6.000 hektar",
+					"publishedAt": "2026-03-19T04:00:06+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/njjp8cdz1nc/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 23821,
+					"link": "https://www.youtube.com/watch?v=njjp8cdz1nc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				},
+				{
+					"videoId": "xv0Ypnxe6Qg",
+					"title": "🇬🇧 The 8R HHP is an easy to drive alternative to the articulated tractor",
+					"publishedAt": "2026-03-17T11:29:04+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/xv0Ypnxe6Qg/hqdefault.jpg",
+					"channelTitle": "Agri Tech Media",
+					"viewCount": 2584,
+					"link": "https://www.youtube.com/watch?v=xv0Ypnxe6Qg",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg"
+				}
+			]
+		}
+	]
+}

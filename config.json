@@ -1,0 +1,128 @@
+{
+	"defaults": {
+		"maxItemsPerFeed": 24,
+		"maxItemsPerCategory": 48,
+		"staleAfterHours": 72,
+		"requestTimeoutMs": 12000,
+		"retryCount": 1
+	},
+	"categories": [
+		{
+			"id": "documentary",
+			"label": "Documentary",
+			"order": 1,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "history",
+			"label": "History",
+			"order": 2,
+			"maxItemsPerCategory": 42,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFMmaBzfCCwZ2KqaBJjkj0fw",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "sport",
+			"label": "Sport",
+			"order": 3,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "tech",
+			"label": "Tech",
+			"order": 4,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "politics",
+			"label": "Politics",
+			"order": 5,
+			"maxItemsPerCategory": 42,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF3Vuq4Q1bKFtAiKYlwRv3oA",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "running",
+			"label": "Running",
+			"order": 6,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "misc",
+			"label": "Misc",
+			"order": 7,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg",
+					"enabled": true
+				}
+			]
+		}
+	],
+	"channels": [
+		{
+			"id": "timeteam",
+			"title": "Time Team",
+			"thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_mSYXNojBkwskrze2Cj1L7HZZFcdA7r9GlSiP3dLs08mw=s160-c-k-c0x00ffffff-no-rj",
+			"order": 1,
+			"playlists": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c",
+					"label": "Series 1"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqfo9rzufNneZuT28vLm4uC",
+					"label": "Series 2"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y",
+					"label": "Series 3"
+				}
+			]
+		}
+	]
+}
