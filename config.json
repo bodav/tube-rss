@@ -8,21 +8,9 @@
 	},
 	"categories": [
 		{
-			"id": "documentary",
-			"label": "Documentary",
-			"order": 1,
-			"feeds": [
-				{
-					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g",
-					"enabled": true
-				}
-			]
-		},
-		{
 			"id": "history",
 			"label": "History",
-			"order": 2,
-			"maxItemsPerCategory": 42,
+			"order": 1,
 			"feeds": [
 				{
 					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg",
@@ -35,27 +23,17 @@
 				{
 					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFCGvq-qmjFmmMD4e-PLQqGg",
 					"enabled": true
-				}
-			]
-		},
-		{
-			"id": "sport",
-			"label": "Sport",
-			"order": 3,
-			"feeds": [
+				},
 				{
-					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFJVMrR290HU9pDxaP35u_cg",
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFLwu9pfVJcT-eWEPXyvFvsg",
 					"enabled": true
-				}
-			]
-		},
-		{
-			"id": "tech",
-			"label": "Tech",
-			"order": 4,
-			"feeds": [
+				},
 				{
-					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ",
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFB1eDEd1AYG3YrRIJSZzMOQ",
 					"enabled": true
 				}
 			]
@@ -63,8 +41,7 @@
 		{
 			"id": "politics",
 			"label": "Politics",
-			"order": 5,
-			"maxItemsPerCategory": 42,
+			"order": 2,
 			"feeds": [
 				{
 					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFASM0cgfkJxQ1ICmRilfHLw",
@@ -77,27 +54,89 @@
 				{
 					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHpw8xwDNhU9gdohEcJu4aA",
 					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFPPfK7Nq_yQR84rn1wcTXBg",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFY7dD6waquGnKTZSumPMTlQ",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFsufaClk5if2RGqABb-09Uw",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFg3hvCXDzFq6ZwSNcmZ62YA",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "tech",
+			"label": "Tech",
+			"order": 3,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFOk-gHyjcWZNj3Br4oxwh0A",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "documentary",
+			"label": "Documentary",
+			"order": 4,
+			"feeds": [
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g",
+					"enabled": true
 				}
 			]
 		},
 		{
 			"id": "running",
 			"label": "Running",
-			"order": 6,
+			"order": 5,
 			"feeds": [
 				{
 					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF7LH0G7csGe-d0e3coywpQg",
 					"enabled": true
 				}
 			]
 		},
 		{
-			"id": "misc",
-			"label": "Misc",
-			"order": 7,
+			"id": "other",
+			"label": "Other",
+			"order": 6,
 			"feeds": [
 				{
 					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGZIhR2MNxu5nNQrzmtfYxg",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF5rT7F0PGNuD54rJ9kzgWzw",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFDvcavTI2xgfXZdF9MaPKIQ",
+					"enabled": true
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFPNVLvEO6Nw_2soyEhvpEQA",
 					"enabled": true
 				}
 			]
@@ -111,7 +150,7 @@
 			"order": 1,
 			"playlists": [
 				{
-					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c",
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QrkkU4kLw38l4lW10HmlTeV",
 					"label": "Series 1"
 				},
 				{
@@ -119,8 +158,60 @@
 					"label": "Series 2"
 				},
 				{
-					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y",
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QrXhFMMjx8HvtDpzVOC2IM6",
 					"label": "Series 3"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QqgPUYMmsZsWHbdnyAmBN4m",
+					"label": "Series 5"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QqGjNsg-zsUSNk5HfpMjZX8",
+					"label": "Series 6"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QoR38Z5c_HOSDZwpP3TwD5R",
+					"label": "Series 7"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QpMkEylRoO8NjtC-l-U7K79",
+					"label": "Series 8"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qr-KMQwsiuDikmEOSwQM56c",
+					"label": "Series 10"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qom4jZ58-LGKOp_C8G8ElAp",
+					"label": "Series 12"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QrpZV4Gky0-jOtSaDA_ckph",
+					"label": "Series 13"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qrs8UH7yQ2Q58kI_oyQWa4Y",
+					"label": "Series 14"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qqcicm-BClz2xm-sWcmcqUf",
+					"label": "Series 15"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9Qow3qmUAls7HIdMrdQ42FjK",
+					"label": "Series 16"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QobTCHzeuTRwS4IEu97kBlb",
+					"label": "Series 17"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QoNXoLXjDxGWs8xIaazvvju",
+					"label": "Series 18"
+				},
+				{
+					"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3nVK6mXS9QqWvtYtTCavy66uPQfXb1mX",
+					"label": "Series 19"
 				}
 			]
 		}
