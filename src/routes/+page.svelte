@@ -2,6 +2,7 @@
 	import type { PageData } from './$types';
 	import dayjs from 'dayjs';
 	import relativeTime from 'dayjs/plugin/relativeTime';
+	import { base } from '$app/paths';
 	import Rail from '$lib/components/Rail.svelte';
 
 	dayjs.extend(relativeTime);
@@ -10,6 +11,8 @@
 	type ViewMode = 'category' | 'feed';
 	let viewMode = $state<ViewMode>('category');
 	let selectedCategoryId = $state('');
+	const basePath = $derived(base.endsWith('/') ? base.slice(0, -1) : base);
+	const withBase = (path: string) => `${basePath}${path.startsWith('/') ? path : `/${path}`}`;
 
 	// Reactive derived from props so it stays in sync after hydration
 	const stale = $derived(data.feedBundle.metadata.stale);
@@ -37,7 +40,7 @@
 		</p>
 		<div class="cc-header-controls">
 			<div class="cc-browse-wrap">
-				<a class="cc-browse-btn" href="/channels">Browse</a>
+				<a class="cc-browse-btn" href={withBase('/channels')}>Browse</a>
 			</div>
 			<div class="cc-filter-wrap">
 				<label class="cc-filter-label" for="category-filter">Filter by category</label>

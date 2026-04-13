@@ -1,16 +1,19 @@
 <script lang="ts">
 	import type { PageData } from './$types';
+	import { base } from '$app/paths';
 
 	let { data }: { data: PageData } = $props();
+	const basePath = $derived(base.endsWith('/') ? base.slice(0, -1) : base);
+	const withBase = (path: string) => `${basePath}${path.startsWith('/') ? path : `/${path}`}`;
 </script>
 
 <main class="cc-page">
 	<div class="cc-bg-glow" aria-hidden="true"></div>
 	<header class="cc-header">
 		<div class="cc-breadcrumbs">
-			<a href="/" class="cc-breadcrumb">Frontpage</a>
+			<a href={withBase('/')} class="cc-breadcrumb">Frontpage</a>
 			<span class="cc-breadcrumb-sep">/</span>
-			<a href="/channels" class="cc-breadcrumb">Channels</a>
+			<a href={withBase('/channels')} class="cc-breadcrumb">Channels</a>
 			<span class="cc-breadcrumb-sep">/</span>
 			<span class="cc-breadcrumb-current">{data.channel.title}</span>
 		</div>
@@ -26,7 +29,7 @@
 	{:else}
 		<section class="cc-playlists-grid">
 			{#each data.channel.playlists as playlist (playlist.id)}
-				<a href="/channels/{data.channel.id}/{playlist.id}" class="cc-playlist-card">
+				<a href={withBase(`/channels/${data.channel.id}/${playlist.id}`)} class="cc-playlist-card">
 					<div class="cc-playlist-thumb-wrap">
 						{#if playlist.thumbnail}
 							<img alt={playlist.title} src={playlist.thumbnail} class="cc-playlist-thumb" />
