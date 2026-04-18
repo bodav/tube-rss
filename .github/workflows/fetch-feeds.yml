@@ -3,7 +3,7 @@ name: Fetch Feeds
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 20 * * *'
+    - cron: '5 17 * * *' # 17:05 UTC (20:05 CET)
 
 concurrency:
   group: feed-ingestion
