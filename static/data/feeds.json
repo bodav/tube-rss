@@ -1,6 +1,6 @@
 {
 	"metadata": {
-		"generatedAt": "2026-11-05T22:36:00.929Z",
+		"generatedAt": "2026-11-06T21:58:34.247Z",
 		"sourceCount": 23,
 		"failedSources": [
 			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULFN9v4QG3AQEP3zuRvVs2dAg",
@@ -16,8 +16,6 @@
 			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULFY7dD6waquGnKTZSumPMTlQ",
 			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULFsufaClk5if2RGqABb-09Uw",
 			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULFg3hvCXDzFq6ZwSNcmZ62YA",
-			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ",
-			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw",
 			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULFOk-gHyjcWZNj3Br4oxwh0A",
 			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULFVogAsASqbceBmQMi1WA39g",
 			"https://www.youtube.com/feeds/videos.xml?playlist_id=UULFe43pe3w4L6w3tNMRkWiJBA",
@@ -50,8 +48,624 @@
 			"id": "tech",
 			"label": "Tech",
 			"order": 3,
-			"channels": [],
-			"items": []
+			"channels": [
+				{
+					"id": "UULFBJycsmduvYEL83R_U4JriQ",
+					"title": "Marques Brownlee",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ",
+					"items": [
+						{
+							"videoId": "_x58r9TBois",
+							"title": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
+							"publishedAt": "2026-11-06T21:29:30+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 32857,
+							"link": "https://www.youtube.com/watch?v=_x58r9TBois",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "g6Die8gVFn0",
+							"title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+							"publishedAt": "2026-11-03T14:01:31+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 10109658,
+							"link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "2reQut8WNGc",
+							"title": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+							"publishedAt": "2026-10-29T02:50:34+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 12037181,
+							"link": "https://www.youtube.com/watch?v=2reQut8WNGc",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "ESABTN4VtrA",
+							"title": "iPhone Duo Review: First Generation Fun!",
+							"publishedAt": "2026-10-21T12:00:52+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 13480823,
+							"link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "scwlR0QHGOk",
+							"title": "The NEW Tesla Roadster: My Honest Reaction",
+							"publishedAt": "2026-10-17T02:09:23+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 12491678,
+							"link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "QVv3mQzlrN0",
+							"title": "Apple Homeview Impressions: Not Convinced!",
+							"publishedAt": "2026-10-13T22:42:38+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 11326908,
+							"link": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "_0G4OG39XjI",
+							"title": "WTF is a Googlebook?",
+							"publishedAt": "2026-10-08T21:00:40+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 9134907,
+							"link": "https://www.youtube.com/watch?v=_0G4OG39XjI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "3iRUwVzRDZQ",
+							"title": "Xiaomi 18 Fold: How Does This Happen?",
+							"publishedAt": "2026-10-02T20:50:25+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 12709768,
+							"link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "e1q-TuHdc4Y",
+							"title": "Dear YouTube!",
+							"publishedAt": "2026-09-30T14:42:19+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 5886664,
+							"link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "rayrrXot17M",
+							"title": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
+							"publishedAt": "2026-09-29T01:01:35+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 6287994,
+							"link": "https://www.youtube.com/watch?v=rayrrXot17M",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "DkUuOr21v4s",
+							"title": "Xiaomi 18 Pro Max: They've Done It Again!",
+							"publishedAt": "2026-09-24T22:26:18+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 14399809,
+							"link": "https://www.youtube.com/watch?v=DkUuOr21v4s",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "pOX1l1edBME",
+							"title": "The Apple Watch Has a Problem",
+							"publishedAt": "2026-09-22T17:49:42+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/pOX1l1edBME/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 5576043,
+							"link": "https://www.youtube.com/watch?v=pOX1l1edBME",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "ohqxP8EEumo",
+							"title": "iPhone 18 Pro Review: All About that Chip",
+							"publishedAt": "2026-09-16T12:01:27+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 12262641,
+							"link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "6D__H_DO2Xk",
+							"title": "iPhone Duo: What We Missed!",
+							"publishedAt": "2026-09-12T21:36:57+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 12848631,
+							"link": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						},
+						{
+							"videoId": "Od6M0AXpcxQ",
+							"title": "iPhone 18 Pro/Duo Impressions: Mogged",
+							"publishedAt": "2026-09-10T07:29:55+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
+							"channelTitle": "Marques Brownlee",
+							"viewCount": 28295416,
+							"link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+						}
+					]
+				},
+				{
+					"id": "UULF1LpsuAUaKoMzzJSEt5WImw",
+					"title": "Asianometry",
+					"feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw",
+					"items": [
+						{
+							"videoId": "y5YKL75e78Y",
+							"title": "The Rise of GLM and China’s Zhipu AI",
+							"publishedAt": "2026-11-01T23:40:14+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/y5YKL75e78Y/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 160573,
+							"link": "https://www.youtube.com/watch?v=y5YKL75e78Y",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "gADulYiRSww",
+							"title": "Silicon Valley Walks the Jagged Edge",
+							"publishedAt": "2026-10-30T14:00:40+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/gADulYiRSww/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 122398,
+							"link": "https://www.youtube.com/watch?v=gADulYiRSww",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "ksx5g5WvAIw",
+							"title": "The Lintel Conquest of UNIX",
+							"publishedAt": "2026-10-25T23:00:15+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/ksx5g5WvAIw/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 245375,
+							"link": "https://www.youtube.com/watch?v=ksx5g5WvAIw",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "NYej-KstgTg",
+							"title": "The Birth & Rise of India's IT Outsourcing Industry",
+							"publishedAt": "2026-10-18T23:00:26+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/NYej-KstgTg/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 268098,
+							"link": "https://www.youtube.com/watch?v=NYej-KstgTg",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "pGQWq_q1gnM",
+							"title": "IGBTs Took Silicon Power to the Next Level",
+							"publishedAt": "2026-10-15T23:00:03+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/pGQWq_q1gnM/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 208112,
+							"link": "https://www.youtube.com/watch?v=pGQWq_q1gnM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "CqPsGYJHozM",
+							"title": "ASML’s New Multibeam Inspection Tool is Familiar",
+							"publishedAt": "2026-10-11T23:00:38+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/CqPsGYJHozM/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 143473,
+							"link": "https://www.youtube.com/watch?v=CqPsGYJHozM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "wJRfoWXTU80",
+							"title": "Is TSMC Coming to Texas?",
+							"publishedAt": "2026-10-08T23:00:23+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/wJRfoWXTU80/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 161417,
+							"link": "https://www.youtube.com/watch?v=wJRfoWXTU80",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "6NCgNU4ALiI",
+							"title": "The Fall of Brazil's Armored Vehicle King",
+							"publishedAt": "2026-10-04T23:00:28+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/6NCgNU4ALiI/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 183779,
+							"link": "https://www.youtube.com/watch?v=6NCgNU4ALiI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "B7KcQ2yE6pM",
+							"title": "EUV Photomasks Are Getting Bigger",
+							"publishedAt": "2026-10-01T23:00:30+00:00",
+							"thumbnail": "https://i3.ytimg.com/vi/B7KcQ2yE6pM/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 228684,
+							"link": "https://www.youtube.com/watch?v=B7KcQ2yE6pM",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "-XqyBEm3oeI",
+							"title": "The Dramatic Birth of the DVD Boom",
+							"publishedAt": "2026-09-27T23:00:27+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/-XqyBEm3oeI/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 215602,
+							"link": "https://www.youtube.com/watch?v=-XqyBEm3oeI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "3nTpW52nioI",
+							"title": "High Bandwidth Flash Is Coming",
+							"publishedAt": "2026-09-24T23:00:30+00:00",
+							"thumbnail": "https://i4.ytimg.com/vi/3nTpW52nioI/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 419854,
+							"link": "https://www.youtube.com/watch?v=3nTpW52nioI",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "A2BsmrnegrY",
+							"title": "Intel’s Optane Memory: A Promise Unfulfilled",
+							"publishedAt": "2026-09-20T23:00:19+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/A2BsmrnegrY/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 354909,
+							"link": "https://www.youtube.com/watch?v=A2BsmrnegrY",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "Qeunu8YkuOk",
+							"title": "Exxon’s Office Fling",
+							"publishedAt": "2026-09-17T23:00:39+00:00",
+							"thumbnail": "https://i2.ytimg.com/vi/Qeunu8YkuOk/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 161443,
+							"link": "https://www.youtube.com/watch?v=Qeunu8YkuOk",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "x8QP9oXgahA",
+							"title": "Silicon Valley’s Starving for Compute",
+							"publishedAt": "2026-09-13T23:00:33+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/x8QP9oXgahA/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 333399,
+							"link": "https://www.youtube.com/watch?v=x8QP9oXgahA",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						},
+						{
+							"videoId": "DNKfD1PC68E",
+							"title": "Did Numerical Control De-skill Machinists?",
+							"publishedAt": "2026-09-10T23:00:09+00:00",
+							"thumbnail": "https://i1.ytimg.com/vi/DNKfD1PC68E/hqdefault.jpg",
+							"channelTitle": "Asianometry",
+							"viewCount": 272469,
+							"link": "https://www.youtube.com/watch?v=DNKfD1PC68E",
+							"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+						}
+					]
+				}
+			],
+			"items": [
+				{
+					"videoId": "_x58r9TBois",
+					"title": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
+					"publishedAt": "2026-11-06T21:29:30+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 32857,
+					"link": "https://www.youtube.com/watch?v=_x58r9TBois",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "g6Die8gVFn0",
+					"title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+					"publishedAt": "2026-11-03T14:01:31+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 10109658,
+					"link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "y5YKL75e78Y",
+					"title": "The Rise of GLM and China’s Zhipu AI",
+					"publishedAt": "2026-11-01T23:40:14+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/y5YKL75e78Y/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 160573,
+					"link": "https://www.youtube.com/watch?v=y5YKL75e78Y",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "gADulYiRSww",
+					"title": "Silicon Valley Walks the Jagged Edge",
+					"publishedAt": "2026-10-30T14:00:40+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/gADulYiRSww/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 122398,
+					"link": "https://www.youtube.com/watch?v=gADulYiRSww",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "2reQut8WNGc",
+					"title": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+					"publishedAt": "2026-10-29T02:50:34+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 12037181,
+					"link": "https://www.youtube.com/watch?v=2reQut8WNGc",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "ksx5g5WvAIw",
+					"title": "The Lintel Conquest of UNIX",
+					"publishedAt": "2026-10-25T23:00:15+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/ksx5g5WvAIw/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 245375,
+					"link": "https://www.youtube.com/watch?v=ksx5g5WvAIw",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "ESABTN4VtrA",
+					"title": "iPhone Duo Review: First Generation Fun!",
+					"publishedAt": "2026-10-21T12:00:52+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 13480823,
+					"link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "NYej-KstgTg",
+					"title": "The Birth & Rise of India's IT Outsourcing Industry",
+					"publishedAt": "2026-10-18T23:00:26+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/NYej-KstgTg/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 268098,
+					"link": "https://www.youtube.com/watch?v=NYej-KstgTg",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "scwlR0QHGOk",
+					"title": "The NEW Tesla Roadster: My Honest Reaction",
+					"publishedAt": "2026-10-17T02:09:23+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 12491678,
+					"link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "pGQWq_q1gnM",
+					"title": "IGBTs Took Silicon Power to the Next Level",
+					"publishedAt": "2026-10-15T23:00:03+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/pGQWq_q1gnM/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 208112,
+					"link": "https://www.youtube.com/watch?v=pGQWq_q1gnM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "QVv3mQzlrN0",
+					"title": "Apple Homeview Impressions: Not Convinced!",
+					"publishedAt": "2026-10-13T22:42:38+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 11326908,
+					"link": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "CqPsGYJHozM",
+					"title": "ASML’s New Multibeam Inspection Tool is Familiar",
+					"publishedAt": "2026-10-11T23:00:38+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/CqPsGYJHozM/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 143473,
+					"link": "https://www.youtube.com/watch?v=CqPsGYJHozM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "wJRfoWXTU80",
+					"title": "Is TSMC Coming to Texas?",
+					"publishedAt": "2026-10-08T23:00:23+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/wJRfoWXTU80/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 161417,
+					"link": "https://www.youtube.com/watch?v=wJRfoWXTU80",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "_0G4OG39XjI",
+					"title": "WTF is a Googlebook?",
+					"publishedAt": "2026-10-08T21:00:40+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 9134907,
+					"link": "https://www.youtube.com/watch?v=_0G4OG39XjI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "6NCgNU4ALiI",
+					"title": "The Fall of Brazil's Armored Vehicle King",
+					"publishedAt": "2026-10-04T23:00:28+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/6NCgNU4ALiI/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 183779,
+					"link": "https://www.youtube.com/watch?v=6NCgNU4ALiI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "3iRUwVzRDZQ",
+					"title": "Xiaomi 18 Fold: How Does This Happen?",
+					"publishedAt": "2026-10-02T20:50:25+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 12709768,
+					"link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "B7KcQ2yE6pM",
+					"title": "EUV Photomasks Are Getting Bigger",
+					"publishedAt": "2026-10-01T23:00:30+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/B7KcQ2yE6pM/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 228684,
+					"link": "https://www.youtube.com/watch?v=B7KcQ2yE6pM",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "e1q-TuHdc4Y",
+					"title": "Dear YouTube!",
+					"publishedAt": "2026-09-30T14:42:19+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 5886664,
+					"link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "rayrrXot17M",
+					"title": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
+					"publishedAt": "2026-09-29T01:01:35+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 6287994,
+					"link": "https://www.youtube.com/watch?v=rayrrXot17M",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "-XqyBEm3oeI",
+					"title": "The Dramatic Birth of the DVD Boom",
+					"publishedAt": "2026-09-27T23:00:27+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/-XqyBEm3oeI/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 215602,
+					"link": "https://www.youtube.com/watch?v=-XqyBEm3oeI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "3nTpW52nioI",
+					"title": "High Bandwidth Flash Is Coming",
+					"publishedAt": "2026-09-24T23:00:30+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/3nTpW52nioI/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 419854,
+					"link": "https://www.youtube.com/watch?v=3nTpW52nioI",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "DkUuOr21v4s",
+					"title": "Xiaomi 18 Pro Max: They've Done It Again!",
+					"publishedAt": "2026-09-24T22:26:18+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 14399809,
+					"link": "https://www.youtube.com/watch?v=DkUuOr21v4s",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "pOX1l1edBME",
+					"title": "The Apple Watch Has a Problem",
+					"publishedAt": "2026-09-22T17:49:42+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/pOX1l1edBME/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 5576043,
+					"link": "https://www.youtube.com/watch?v=pOX1l1edBME",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "A2BsmrnegrY",
+					"title": "Intel’s Optane Memory: A Promise Unfulfilled",
+					"publishedAt": "2026-09-20T23:00:19+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/A2BsmrnegrY/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 354909,
+					"link": "https://www.youtube.com/watch?v=A2BsmrnegrY",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "Qeunu8YkuOk",
+					"title": "Exxon’s Office Fling",
+					"publishedAt": "2026-09-17T23:00:39+00:00",
+					"thumbnail": "https://i2.ytimg.com/vi/Qeunu8YkuOk/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 161443,
+					"link": "https://www.youtube.com/watch?v=Qeunu8YkuOk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "ohqxP8EEumo",
+					"title": "iPhone 18 Pro Review: All About that Chip",
+					"publishedAt": "2026-09-16T12:01:27+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 12262641,
+					"link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "x8QP9oXgahA",
+					"title": "Silicon Valley’s Starving for Compute",
+					"publishedAt": "2026-09-13T23:00:33+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/x8QP9oXgahA/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 333399,
+					"link": "https://www.youtube.com/watch?v=x8QP9oXgahA",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "6D__H_DO2Xk",
+					"title": "iPhone Duo: What We Missed!",
+					"publishedAt": "2026-09-12T21:36:57+00:00",
+					"thumbnail": "https://i3.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 12848631,
+					"link": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				},
+				{
+					"videoId": "DNKfD1PC68E",
+					"title": "Did Numerical Control De-skill Machinists?",
+					"publishedAt": "2026-09-10T23:00:09+00:00",
+					"thumbnail": "https://i1.ytimg.com/vi/DNKfD1PC68E/hqdefault.jpg",
+					"channelTitle": "Asianometry",
+					"viewCount": 272469,
+					"link": "https://www.youtube.com/watch?v=DNKfD1PC68E",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+				},
+				{
+					"videoId": "Od6M0AXpcxQ",
+					"title": "iPhone 18 Pro/Duo Impressions: Mogged",
+					"publishedAt": "2026-09-10T07:29:55+00:00",
+					"thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
+					"channelTitle": "Marques Brownlee",
+					"viewCount": 28295416,
+					"link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
+					"sourceUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFBJycsmduvYEL83R_U4JriQ"
+				}
+			]
 		},
 		{
 			"id": "documentary",
